@@ -1,12 +1,12 @@
 CREATE TABLE team(
-       team_id int,
+       team_id int auto_increment,
        team_city varchar(30),
        team_name varchar(30),
        stadium_name varchar(30),
        primary key(team_id)
 );
 CREATE TABLE player(
-       player_id int,
+       player_id int auto_increment,
        name varchar(30),
        position varchar(20),
        team_id int,
@@ -14,7 +14,7 @@ CREATE TABLE player(
        foreign key(team_id) references team(team_id)
 );
 CREATE TABLE game(
-       game_id int,
+       game_id int auto_increment,
        game_date date,
        home_team_id int,
        away_team_id int,
