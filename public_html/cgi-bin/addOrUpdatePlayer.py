@@ -39,7 +39,6 @@ if submit:
         print('</body>')
         print('</html>')
     
-
 print('<html>')
 print('<head>')
 print('<title>Add/Update a Player</title>')
