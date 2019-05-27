@@ -1,0 +1,35 @@
+#!/usr/bin/python3                                                                            
+
+import mysql.connector, cgi
+print("Content-type:text/html\r\n\r\n")
+cnx = mysql.connector.connect(user='ptawil', password='ptawil', database='ptawil', host='localhost')
+print('<html>')                                                                           
+print('<head>')
+print('<title>View Game Info</title>')
+print('</head>')
+print('<body>')
+cursor = cnx.cursor()
+form = cgi.FieldStorage()
+game_id = form.getvalue('game_id')
+query = "SELECT player_id, name, num_of_at_bats, num_of_hits, num_of_runs, num_of_homeruns FROM player_game_stats NATURAL JOIN player WHERE game_id = %s"
+val = (game_id,)
+cursor.execute(query, val)
+print('<table> <tr> <th> Game Id </th> <th> Player Id </th> <th> Player Name </th> <th> Number of At Bats </th> <th> Number Of Hits </th> <th> Number of Runs </th> <th> Number of Home Runs </th> <th> Link to Delete Stats </th> <th> Update Player Stats </th> </tr>')
+for (player_id, name, num_of_at_bats, num_of_hits, num_of_runs, num_of_homeruns) in cursor:
+    print('<form action="updatePlayerStats.py">')
+    print('<tr>')
+    print('<td> <input type="text" size="5" name="game_id" value="' + str(game_id) + '" readonly> </td>')
+    print('<td> <input type="text" size="5" name="player_id" value="' + str(player_id) + '" readonly></td>')
+    print('<td> ' + name + '</td>')
+    print('<td> <input type="number" size="5" name="num_of_abs" value="' + str(num_of_at_bats) + '"></td>')
+    print('<td> <input type="number" size="5" name="num_of_hits" value="' + str(num_of_hits) + '"></td>')
+    print('<td> <input type="number" size="5" name="num_of_runs" value="' + str(num_of_runs) + '"></td>')
+    print('<td> <input type="number" size="5" name="num_of_homeruns" value="' + str(num_of_homeruns) + '"></td>')
+    print('<td> <a href="deletePlayerStats.py?player_id=' + str(player_id) + '&game_id=' + game_id +'"> Delete Player Stats </a> </td>')
+    print('<td> <input type="submit" value="Update"> </td>')
+    print('</tr>')
+    print('</form>')
+print('</table>')
+print('</body>')
+print('</html>')
+
