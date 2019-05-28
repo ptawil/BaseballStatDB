@@ -67,7 +67,7 @@ CREATE FUNCTION homeTeamScore(game int)
 RETURNS int
 BEGIN
 	DECLARE homeScore int;
-	SET homeScore = (SELECT SUM(player_game_stats.num_of_runs) FROM player_game_stats, player, game WHERE player_game_stats.player_id = player.player_id AND player_game_stats.game_id = game.game_id AND player.team_id = game.home_team_id);
+	SET homeScore = (SELECT SUM(player_game_stats.num_of_runs) FROM player_game_stats, player, game WHERE player_game_stats.player_id = player.player_id AND player_game_stats.game_id = game.game_id AND player.team_id = game.home_team_id AND game.game_id = game);
 	RETURN homeScore;
 END;
 //
@@ -76,19 +76,30 @@ CREATE FUNCTION awayTeamScore(game int)
 RETURNS int
 BEGIN
 	DECLARE awayScore int;
-	SET awayScore = (SELECT SUM(player_game_stats.num_of_runs) FROM player_game_stats, player, game WHERE player_game_stats.player_id = player.player_id AND player_game_stats.game_id = game.game_id AND player.team_id = game.away_team_id);
+	SET awayScore = (SELECT SUM(player_game_stats.num_of_runs) FROM player_game_stats, player, game WHERE player_game_stats.player_id = player.player_id AND player_game_stats.game_id = game.game_id AND player.team_id = game.away_team_id AND game.game_id = game);
 	RETURN awayScore;
 END;
 //
 
-CREATE FUNCTION wins1(team int)
+CREATE FUNCTION wins(team int)
 RETURNS int
 BEGIN
 	DECLARE homeWins int;
 	DECLARE awayWins int;
-	SET homeWins = (SELECT count(*) FROM (SELECT game.game_id as game_id FROM game, team WHERE game.home_team_id = team.team_id) as a WHERE homeTeamScore(a.game_id) > awayTeamScore(a.game_id));
-	SET awayWins = (SELECT count(*) FROM (SELECT game.game_id as game_id FROM game, team WHERE game.away_team_id = team.team_id) as b WHERE awayTeamScore(b.game_id) > homeTeamScore(b.game_id));	
+	SET homeWins = (SELECT count(*) FROM (SELECT game.game_id as game_id FROM game, team WHERE game.home_team_id = team.team_id AND team.team_id = team) as a WHERE homeTeamScore(a.game_id) > awayTeamScore(a.game_id));
+	SET awayWins = (SELECT count(*) FROM (SELECT game.game_id as game_id FROM game, team WHERE game.away_team_id = team.team_id AND team.team_id = team) as b WHERE awayTeamScore(b.game_id) > homeTeamScore(b.game_id));	
 	RETURN homeWins + awayWins;
+END;
+//
+
+CREATE FUNCTION losses(team int)
+RETURNS int
+BEGIN
+        DECLARE homeLosses int;
+        DECLARE awayLosses int;
+        SET homeLosses = (SELECT count(*) FROM (SELECT game.game_id as game_id FROM game, team WHERE game.home_team_id = team.team_id AND team.team_id = team) as a WHERE homeTeamScore(a.game_id) < awayTeamScore(a.game_id));
+        SET awayLosses = (SELECT count(*) FROM (SELECT game.game_id as game_id FROM game, team WHERE game.away_team_id = team.team_id AND team.team_id = team) as b WHERE awayTeamScore(b.game_id) < homeTeamScore(b.game_id));
+        RETURN homeLosses + awayLosses;
 END;
 //
 DELIMITER ;
