@@ -30,8 +30,7 @@ if submit:
     query = "SELECT player_id, name, position FROM player, team WHERE player.team_id = team.team_id AND team.team_id = %s"
     val = (homeTeam,)
     cursor.execute(query, val)
-    print('HOME TEAM PLAYERS <br>')
-    print('<table> <tr> <th> Played? </th> <th> Player ID/ Player Name/Position </th> <th> Number of Runs </th> <th> Number of At Bats </th> <th> Number of Hits </th> <th> Number of Home Runs </th> </tr>')
+    print('<table> <caption> HOME TEAM PLAYERS </caption> <tr> <th> Played? </th> <th> Player ID/ Player Name/Position </th> <th> Number of Runs </th> <th> Number of At Bats </th> <th> Number of Hits </th> <th> Number of Home Runs </th> </tr>')
     count = 1
     for row in cursor:
         print('<tr>')
@@ -45,10 +44,11 @@ if submit:
         count+=1
     val = (awayTeam,)
     cursor.execute(query, val)
-    print('<tr> AWAY TEAM PLAYERS </tr>')
+    print('</table>')
+    print('<table> <caption> AWAY TEAM PLAYERS </caption> <tr> <th> Played? </th> <th> Player ID/ Player Name/Position </th> <th> Number of Runs </th> <th> Number of At Bats </th> <th> Number of Hits </th> <th> Number of Home Runs </th> </tr>')
     for row in cursor:
         print('<tr>')
-        print('<td> <input type="checkbox" name="player' + str(count) +'" value="' + str(row[0]) + '"> </td>')
+        print('<td> <input type="checkbox" name="player' + str(count) +'"> </td>')
         print('<td> <input type="text" name="playerInfo' + str(count) +'" value="' + str(row[0]) + " " + row[1] + " " + row[2] + '" readonly></td>')
         print('<td> <input type="number" name="runs' + str(count) +'"> </td>')
         print('<td> <input type="number" name="num_of_abs' + str(count)+'"> </td>')
@@ -56,10 +56,10 @@ if submit:
         print('<td> <input type="number" name="homeruns' + str(count) + '"> </td>')
         print('</tr>')
         count+=1
+    print('</table> <br>')
     print('<input type="hidden" name="numOfPlayers" value="' + str(count-1) +'">')
     print('<input type="hidden" name="game_id" value="' + str(gameId) +'">')
     print('<input type="submit" value="Submit">')
-    print('</table>')
     print('</form>')
     print('</body>')
     print('</html>')

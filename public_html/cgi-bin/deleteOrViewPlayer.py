@@ -51,7 +51,7 @@ if submit:
     
 print('<html>')
 print('<head>')
-print('<title>View/Delete Players By Team</title>')
+print('<title>View/Delete/Update Players By Team</title>')
 print('</head>')
 print('<body>')
 print('<form action="deleteOrViewPlayer.py">')
@@ -63,4 +63,6 @@ for row in cursor:
 print('</select>')
 print('<input type="submit" name="submitted" value="Submit">')
 print('</form>')
-print('</body>')              
+print('<a href="../baseball.html"> Back to home page </a>')
+print('</body>')
+print('</html>')

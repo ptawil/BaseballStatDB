@@ -30,6 +30,7 @@ for (player_id, name, num_of_at_bats, num_of_hits, num_of_runs, num_of_homeruns)
     print('</tr>')
     print('</form>')
 print('</table>')
+print('<a href="../baseball.html"> Back to home page </a>')
 print('</body>')
 print('</html>')
 

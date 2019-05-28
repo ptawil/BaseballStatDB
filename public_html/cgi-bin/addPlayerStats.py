@@ -24,7 +24,9 @@ for i in range(1,count):
         vals = (player_id, game_id, atBats, hits, runs, homeruns)
         cursor.execute(query, vals)
         cnx.commit()
-        print('<p> Added' + player_id + 'into the database </p>')
-
+        print('<p> Added ' + player_id + ' into the database </p>')
+print('<a href="addGameInfo.py"> Record another game </a>')
+print('<br>')
+print('<a href="../baseball.html"> Back to home page </a>')
 print('</body>')
 print('</html>')
