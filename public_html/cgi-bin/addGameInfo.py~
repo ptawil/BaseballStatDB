@@ -78,6 +78,7 @@ cursor.execute(query)
 for row in cursor:
     print('<option> ' + str(row[0]) + ':' + row[1] + '</option>')
 print('</select> <br>')
+print('<input type="number" name="home_score"> <br>')
 print('Away Team:  <select name="away_team">')
 query="SELECT team_id,team_name from team"
 cursor.execute(query)

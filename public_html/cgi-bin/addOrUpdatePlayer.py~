@@ -26,7 +26,7 @@ if submit:
         print('</body>')
         print('</html>')
     else:
-        query = "UPDATE player SET position = %s, team_id = %s WHERE name = %s"
+        query = "UPDATE player SET position = %s, team = %s WHERE name = %s"
         val = (position, teamId, playerName)
         cursor.execute(query, val)
         cnx.commit()

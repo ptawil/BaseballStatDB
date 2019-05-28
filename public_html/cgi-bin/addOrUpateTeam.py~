@@ -1,4 +1,5 @@
-#!/usr/bin/python3                                                                                                                                         
+!/usr/bin/python3                                                                                                                                         
+
 import mysql.connector, cgi
 print("Content-type:text/html\r\n\r\n")
 cnx = mysql.connector.connect(user='ptawil', password='ptawil', database='ptawil', host='localhost')
@@ -15,7 +16,6 @@ if submit:
         query = "INSERT INTO team (team_city, team_name, stadium_name) VALUES (%s, %s, %s)"
         val = (city, teamName, stadium)
         cursor.execute(query, val)
-        cnx.commit()
     else:
         teamId = form.getvalue("team").split(":")[0]
         query = "UPDATE team SET "
@@ -29,23 +29,23 @@ if submit:
             query+="team_name = %s"
             params.append(teamName)
         if stadium:
-            if len(params) > 0:
+            if len(stadium) > 0:
                 query+=","
             query+="stadium_name = %s"
             params.append(stadium)
 
-        query += " WHERE team_id = %s"
+        query = "WHERE team_id = %s"
         params.append(teamId)
         val = tuple(params)
         cursor.execute(query, val)
-        cnx.commit()
+        
         
 print('<html>')
 print('<head>')
-print('<title>Add/Update a Team</title>')
+print('<title>Add/Update a Player</title>')
 print('</head>')
 print('<body>')
-print('<form action="addOrUpdateTeam.py">')
+print('<form action="addOrUpdatePlayer.py">')
 print('<input type="radio" name="action" value="add">Add a team <br>')
 print('Team City: <input type="text" name="city"> <br>')
 print('Full Team Name: <input type="text" name="teamName"> <br>')
