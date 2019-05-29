@@ -1,4 +1,5 @@
-#!/usr/bin/python3                                                                                                                                         
+#!/usr/bin/python3
+
 import mysql.connector, cgi
 print("Content-type:text/html\r\n\r\n")
 cnx = mysql.connector.connect(user='ptawil', password='ptawil', database='ptawil', host='localhost')
@@ -8,9 +9,11 @@ cursor = cnx.cursor()
 form = cgi.FieldStorage()
 playerId = form.getvalue("playerId")
 team = form.getvalue("team")
-
-query = "DELETE FROM player WHERE player_id = %s"
+query = "DELETE FROM player_game_stats WHERE player_id = %s"
 val = (playerId,)
+cursor.execute(query, val)
+cnx.commit()
+query = "DELETE FROM player WHERE player_id = %s"
 cursor.execute(query, val)
 cnx.commit()
 print('<html>')
