@@ -12,7 +12,7 @@ cursor = cnx.cursor()
 form = cgi.FieldStorage()
 count = int(form.getvalue('numOfPlayers'))
 game_id = form.getvalue('game_id')
-for i in range(1,count):
+for i in range(1,count+1):
     checked = form.getvalue('player' + str(i))
     if checked == "on":
         player_id = form.getvalue('playerInfo' + str(i)).split(" ")[0] 

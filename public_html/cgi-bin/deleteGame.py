@@ -27,3 +27,5 @@ print('<a href="viewOrDeleteGames.py"> See updated list of games. </a>')
 print('</body>')
 print('</html>')
 
+cursor.close()
+cnx.close()

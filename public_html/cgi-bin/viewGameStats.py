@@ -33,4 +33,6 @@ print('</table>')
 print('<a href="../baseball.html"> Back to home page </a>')
 print('</body>')
 print('</html>')
+cursor.close()
+cnx.close()
 

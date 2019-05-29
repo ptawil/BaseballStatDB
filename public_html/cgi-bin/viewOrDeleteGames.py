@@ -24,5 +24,7 @@ print('</table>')
 print('<a href="../baseball.html"> Home </a>')
 print('</body>')
 print('</html>')
+cursor.close()
+cnx.close()
 
     
