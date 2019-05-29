@@ -1,1192 +1,1189 @@
-0	Hanser Alberto	SS	0
-1	Shawn Armstrong	P	0
-2	Richard Bleier	P	0
-3	Dylan Bundy	P	0
-4	Cody Carroll	P	0
-5	Andrew Cashner	P	0
-6	Miguel Castro	P	0
-7	Alex Cobb	P	0
-8	Chris Davis	1B	0
-9	Paul Fry	P	0
-10	Mychal Givens	P	0
-11	Hunter Harvey	P	0
-12	Austin Hays	RF	0
-13	David Hess	P	0
-14	Nate Karns	P	0
-15	Branden Kline	P	0
-16	Trey Mancini	LF	0
-17	Richie Martin	SS	0
-18	John Means	P	0
-19	Cedric Mullins	CF	0
-20	Renato Nunez	3B	0
-21	Luis Ortiz	P	0
-22	Evan Phillips	P	0
-23	Yefry Ramirez	P	0
-24	Joey Rickard	CF	0
-25	Josh Rogers	P	0
-26	Rio Ruiz	3B	0
-27	Anthony Santander	LF	0
-28	Tanner Scott	P	0
-29	Pedro Severino	C	0
-30	Chance Sisco	C	0
-31	Dwight Smith Jr	LF	0
-32	DJ Stewart	RF	0
-33	Dan Straily	P	0
-34	Dillon Tate	P	0
-35	Jonathan Villar	2B	0
-36	Stevie Wilkerson	2B	0
-37	Austin Wynns	C	0
-38	Jimmy Yacabonis	P	0
-39	Gabriel Ynoa	P	0
-40	Matt Barnes	P	1
-41	Andrew Benintendi	LF	1
-42	Mookie Betts	RF	1
-43	Xander Bogaerts	SS	1
-44	Jackie Bradley Jr.	CF	1
-45	Ryan Brasier	P	1
-46	Colten Brewer	P	1
-47	Michael Chavis	3B	1
-48	Joey Curletta	1B	1
-49	Rafael Devers	3B	1
-50	Nathan Eovaldi	P	1
-51	Heath Hembree	P	1
-52	Darwinzon Hernandez	P	1
-53	Marco Hernandez	3B	1
-54	Brock Holt	2B	1
-55	Brian Johnson	P	1
-56	Travis Lakins	P	1
-57	Sandy Leon	C	1
-58	Tzu-Wei Lin	SS	1
-59	J.D. Martinez	LF	1
-60	Mitch Moreland	1B	1
-61	Eduardo Nunez	2B	1
-62	Steve Pearce	1B	1
-63	Dustin Pedroia	2B	1
-64	Rick Porcello	P	1
-65	Bobby Poyner	P	1
-66	David Price	P	1
-67	Denyi Reyes	P	1
-68	Eduardo Rodriguez	P	1
-69	Chris Sale	P	1
-70	Chandler Shepherd	P	1
-71	Josh A. Smith	P	1
-72	Josh Taylor	P	1
-73	Tyler Thornburg	P	1
-74	Sam Travis	1B	1
-75	Christian Vazquez	C	1
-76	Hector Velazquez	P	1
-77	Marcus Walden	P	1
-78	Ryan Weber	P	1
-79	Brandon Workman	P	1
-80	Jose Abreu	1B	2
-81	Micker Adolfo	OF	2
-82	Yonder Alonso	1B	2
-83	Tim Anderson	SS	2
-84	Manny Banuelos	P	2
-85	Luis Alexander Basabe	CF	2
-86	Aaron Bummer	P	2
-87	Ryan Burr	P	2
-88	Welington Castillo	C	2
-89	Dylan Cease	P	2
-90	Alex Colome	P	2
-91	Ryan Cordell	CF	2
-92	Dylan Covey	P	2
-93	Nicky Delmonico	LF	2
-94	Adam Engel	CF	2
-95	Caleb Frare	P	2
-96	Jace Fry	P	2
-97	Carson Fulmer	P	2
-98	Leury Garcia	LF	2
-99	Lucas Giolito	P	2
-100	Ian Hamilton	P	2
-101	Kelvin Herrera	P	2
-102	Eloy Jimenez	LF	2
-103	Reynaldo Lopez	P	2
-104	Evan Marshall	P	2
-105	James McCann	C	2
-106	Kodi Medeiros	P	2
-107	Juan Minaya	P	2
-108	Yoan Moncada	3B	2
-109	Ivan Nova	P	2
-110	Josh Osich	P	2
-111	Daniel Palka	RF	2
-112	Carlos Rodon	P	2
-113	Jose Rondon	2B	2
-114	Jose Ruiz	P	2
-115	Yolmer Sanchez	2B	2
-116	Jordan Stephens	P	2
-117	Charlie Tilson	CF	2
-118	Thyago Vieira	P	2
-119	Seby Zavala	C	2
-120	Greg Allen	CF	3
-121	Cody Anderson	P	3
-122	Trevor Bauer	P	3
-123	Jake Bauers	OF	3
-124	Shane Bieber	P	3
-125	Bobby Bradley	1B	3
-126	Carlos Carrasco	P	3
-127	Yu Chang	SS	3
-128	Adam Cimber	P	3
-129	Tyler Clippard	P	3
-130	A.J. Cole	P	3
-131	Jon Edwards	P	3
-132	Mike Freeman	SS	3
-133	Carlos Gonzalez	OF	3
-134	Nick Goody	P	3
-135	Eric Haase	C	3
-136	Brad Hand	P	3
-137	Sam Hentges	P	3
-138	Chih-Wei Hu	P	3
-139	Jason Kipnis	2B	3
-140	Corey Kluber	P	3
-141	Francisco Lindor	SS	3
-142	Jordan Luplow	RF	3
-143	Leonys Martin	CF	3
-144	Jean Carlos Mejia	P	3
-145	Oscar Mercado	CF	3
-146	Tyler Naquin	RF	3
-147	Tyler Olson	P	3
-148	Dan Otero	P	3
-149	Oliver Perez	P	3
-150	Roberto Perez	C	3
-151	Kevin Plawecki	C	3
-152	Adam Plutko	P	3
-153	Jose Ramirez	3B	3
-154	Neil Ramirez	P	3
-155	Jefry Rodriguez	P	3
-156	Carlos Santana	1B	3
-157	Eric Stamets	SS	3
-158	Nick Wittgren	P	3
-159	Bradley Zimmer	CF	3
-160	Sergio Alcantara	SS	4
-161	Victor Alcantara	P	4
-162	Sandy Baez	P	4
-163	Gordon Beckham	2B	4
-164	Matthew Boyd	P	4
-165	Miguel Cabrera	1B	4
-166	Jeimer Candelario	3B	4
-167	Ryan Carpenter	P	4
-168	Nicholas Castellanos	RF	4
-169	Harold Castro	3B	4
-170	Willi Castro	SS	4
-171	Brandon Dixon	2B	4
-172	Buck Farmer	P	4
-173	Jose Manuel Fernandez	P	4
-174	Reed Garrett	P	4
-175	Niko Goodrum	2B	4
-176	Shane Greene	P	4
-177	Grayson Greiner	C	4
-178	Matt Hall	P	4
-179	Blaine Hardy	P	4
-180	Josh Harrison	2B	4
-181	John Hicks	C	4
-182	Eduardo Jimenez	P	4
-183	Joe Jimenez	P	4
-184	JaCoby Jones	LF	4
-185	Dawel Lugo	2B	4
-186	Jordy Mercer	SS	4
-187	Daniel Norris	P	4
-188	Franklin Perez	P	4
-189	Dustin Peterson	RF	4
-190	Nick Ramirez	P	4
-191	Zac Reininger	P	4
-192	Victor Reyes	LF	4
-193	Ronny Rodriguez	2B	4
-194	Tyson Ross	P	4
-195	Gregory Soto	P	4
-196	Christin Stewart	LF	4
-197	Daniel Stumpf	P	4
-198	Spencer Turnbull	P	4
-199	Jordan Zimmermann	P	4
-200	Bryan Abreu	P	5
-201	Jose Altuve	2B	5
-202	Rogelio Armenteros	P	5
-203	Michael Brantley	LF	5
-204	Alex Bregman	3B	5
-205	Robinson Chirinos	C	5
-206	Gerrit Cole	P	5
-207	Carlos Correa	SS	5
-208	Dean Deetz	P	5
-209	Chris Devenski	P	5
-210	Aledmys Diaz	SS	5
-211	Derek Fisher	CF	5
-212	Reymin Guduan	P	5
-213	Yuli Gurriel	1B	5
-214	Will Harris	P	5
-215	Josh James	P	5
-216	Tony Kemp	LF	5
-217	Jake Marisnick	CF	5
-218	Corbin Martin	P	5
-219	Lance McCullers Jr.	P	5
-220	Collin McHugh	P	5
-221	Wade Miley	P	5
-222	Roberto Osuna	P	5
-223	Brad Peacock	P	5
-224	Cionel Perez	P	5
-225	Ryan Pressly	P	5
-226	Josh Reddick	RF	5
-227	AJ Reed	1B	5
-228	Brady Rodgers	P	5
-229	Hector Rondon	P	5
-230	Joe Smith	P	5
-231	George Springer	CF	5
-232	Max Stassi	C	5
-233	Myles Straw	CF	5
-234	Garrett Stubbs	C	5
-235	Kyle Tucker	RF	5
-236	Framber Valdez	P	5
-237	Justin Verlander	P	5
-238	Tyler White	1B	5
-239	Homer Bailey	P	6
-240	Scott Barlow	P	6
-241	Scott Blewett	P	6
-242	Jorge Bonifacio	RF	6
-243	Brad Boxberger	P	6
-244	Jake Diekman	P	6
-245	Hunter Dozier	1B	6
-246	Lucas Duda	1B	6
-247	Danny Duffy	P	6
-248	Heath Fillmyer	P	6
-249	Brian Flynn	P	6
-250	Cam Gallagher	C	6
-251	Alex Gordon	LF	6
-252	Terrance Gore	CF	6
-253	Conner Greene	P	6
-254	Kelvin Gutierrez	3B	6
-255	Billy Hamilton	CF	6
-256	Arnaldo Hernandez	P	6
-257	Tim Hill	P	6
-258	Jakob Junis	P	6
-259	Brad Keller	P	6
-260	Ian Kennedy	P	6
-261	Ben Lively	P	6
-262	Jorge Lopez	P	6
-263	Richard Lovelady	P	6
-264	Martin Maldonado	C	6
-265	Kevin McCarthy	P	6
-266	Whit Merrifield	2B	6
-267	Adalberto Mondesi	SS	6
-268	Jake Newberry	P	6
-269	Ryan O'Hearn	1B	6
-270	Chris Owings	2B	6
-271	Wily Peralta	P	6
-272	Brett Phillips	RF	6
-273	Frank Schwindel	1B	6
-274	Jorge Soler	RF	6
-275	Glenn Sparkman	P	6
-276	Josh Staumont	P	6
-277	Meibrys Viloria	C	6
-278	Kyle Zimmer	P	6
-279	Cody Allen	P	7
-280	Justin Anderson	P	7
-281	Luke Bard	P	7
-282	Jaime Barria	P	7
-283	Cam Bedrosian	P	7
-284	Justin Bour	1B	7
-285	Jose Briceno	C	7
-286	Ty Buttrey	P	7
-287	Trevor Cahill	P	7
-288	Kole Calhoun	RF	7
-289	Griffin Canning	P	7
-290	Taylor Cole	P	7
-291	Zack Cozart	3B	7
-292	David Fletcher	3B	7
-293	Luis Garcia	P	7
-294	Brian Goodwin	CF	7
-295	Matt Harvey	P	7
-296	Andrew Heaney	P	7
-297	Michael Hermosillo	CF	7
-298	Jake Jewell	P	7
-299	Tommy La Stella	3B	7
-300	Jonathan Lucroy	C	7
-301	Luis Madero	P	7
-302	Shohei Ohtani	P	7
-303	Felix Pena	P	7
-304	Dillon Peters	P	7
-305	Albert Pujols	1B	7
-306	Noe Ramirez	P	7
-307	Matt Ramsey	P	7
-308	Luis Rengifo	2B	7
-309	Hansel Robles	P	7
-310	Andrelton Simmons	SS	7
-311	Tyler Skaggs	P	7
-312	Kevan Smith	C	7
-313	Jose Suarez	P	7
-314	Nick Tropeano	P	7
-315	Mike Trout	CF	7
-316	Taylor Ward	3B	7
-317	Ehire Adrianza	SS	8
-318	Luis Arraez	2B	8
-319	Willians Astudillo	C	8
-320	Jose Berrios	P	8
-321	Byron Buxton	CF	8
-322	Jason Castro	C	8
-323	Jake Cave	CF	8
-324	C.J. Cron	1B	8
-325	Nelson Cruz	DH	8
-326	Tyler Duffey	P	8
-327	Mitch Garver	C	8
-328	Kyle Gibson	P	8
-329	Stephen Gonsalves	P	8
-330	Marwin Gonzalez	3B	8
-331	Nick Gordon	SS	8
-332	Ryne Harper	P	8
-333	Trevor Hildenberger	P	8
-334	Max Kepler	RF	8
-335	Zack Littell	P	8
-336	Matt Magill	P	8
-337	Trevor May	P	8
-338	Adalberto Mejia	P	8
-339	Mike Morin	P	8
-340	Gabriel Moya	P	8
-341	Jake Odorizzi	P	8
-342	Blake Parker	P	8
-343	Martin Perez	P	8
-344	Michael Pineda	P	8
-345	Jorge Polanco	SS	8
-346	Addison Reed	P	8
-347	Taylor Rogers	P	8
-348	Fernando Romero	P	8
-349	Eddie Rosario	LF	8
-350	Miguel Sano	3B	8
-351	Jonathan Schoop	2B	8
-352	Kohl Stewart	P	8
-353	Lewis Thorpe	P	8
-354	Ronald Torreyes	2B	8
-355	Andrew Vasquez	P	8
-356	LaMonte Wade Jr	LF	8
-357	Albert Abreu	P	9
-358	Domingo Acevedo	P	9
-359	Chance Adams	P	9
-360	Miguel Andujar	3B	9
-361	Jake Barrett	P	9
-362	Zack Britton	P	9
-363	Luis Cessa	P	9
-364	Aroldis Chapman	P	9
-365	Nestor Cortes Jr.	P	9
-366	Thairo Estrada	SS	9
-367	Mike Ford	1B	9
-368	Clint Frazier	LF	9
-369	Brett Gardner	LF	9
-370	Domingo German	P	9
-371	Chad Green	P	9
-372	J.A. Happ	P	9
-373	Joe Harvey	P	9
-374	Aaron Hicks	CF	9
-375	Kyle Higashioka	C	9
-376	Jonathan Holder	P	9
-377	Aaron Judge	RF	9
-378	Tommy Kahnle	P	9
-379	DJ LeMahieu	2B	9
-380	Jonathan Loaisiga	P	9
-381	Cameron Maybin	LF	9
-382	Adam Ottavino	P	9
-383	James Paxton	P	9
-384	Austin Romine	C	9
-385	CC Sabathia	P	9
-386	Gary Sanchez	C	9
-387	Giancarlo Stanton	RF	9
-388	Masahiro Tanaka	P	9
-389	Stephen Tarpley	P	9
-390	Mike Tauchman	CF	9
-391	Gleyber Torres	2B	9
-392	Troy Tulowitzki	SS	9
-393	Gio Urshela	3B	9
-394	Breyvic Valera	2B	9
-395	Luke Voit	1B	9
-396	Tyler Wade	SS	9
-397	Brett Anderson	P	10
-398	Tanner Anderson	P	10
-399	Luis Barrera	CF	10
-400	Franklin Barreto	2B	10
-401	Chris Bassitt	P	10
-402	Paul Blackburn	P	10
-403	Skye Bolt	CF	10
-404	Aaron Brooks	P	10
-405	Ryan Buchter	P	10
-406	Mark Canha	CF	10
-407	Matt Chapman	3B	10
-408	Khris Davis	LF	10
-409	Ryan Dull	P	10
-410	Marco Estrada	P	10
-411	Mike Fiers	P	10
-412	Dustin Fowler	CF	10
-413	Robbie Grossman	RF	10
-414	Liam Hendriks	P	10
-415	Grant Holmes	P	10
-416	Nick Hundley	C	10
-417	James Kaprielian	P	10
-418	Ramon Laureano	RF	10
-419	Nick Martini	LF	10
-420	Jorge Mateo	SS	10
-421	Daniel Mengden	P	10
-422	Frankie Montas	P	10
-423	Kendrys Morales	DH	10
-424	Matt Olson	1B	10
-425	Yusmeiro Petit	P	10
-426	Josh Phegley	C	10
-427	Chad Pinder	LF	10
-428	Stephen Piscotty	RF	10
-429	Jurickson Profar	SS	10
-430	Fernando Rodney	P	10
-431	Marcus Semien	SS	10
-432	Joakim Soria	P	10
-433	Blake Treinen	P	10
-434	Andrew Triggs	P	10
-435	Lou Trivino	P	10
-436	J.B. Wendelken	P	10
-437	Austin Adams	P	11
-438	R.J. Alaniz	P	11
-439	Dan Altavilla	P	11
-440	Gerson Bautista	P	11
-441	Tim Beckham	SS	11
-442	Braden Bishop	CF	11
-443	Chasen Bradford	P	11
-444	Brandon Brennan	P	11
-445	Jay Bruce	RF	11
-446	J.P. Crawford	SS	11
-447	Roenis Elias	P	11
-448	Edwin Encarnacion	DH	11
-449	Matt Festa	P	11
-450	Cory Gearrin	P	11
-451	Marco Gonzales	P	11
-452	Dee Gordon	2B	11
-453	Mitch Haniger	RF	11
-454	Ryon Healy	1B	11
-455	Felix Hernandez	P	11
-456	Yusei Kikuchi	P	11
-457	Mike Leake	P	11
-458	Wade LeBlanc	P	11
-459	Shed Long	2B	11
-460	Parker Markel	P	11
-461	David McKay	P	11
-462	Dylan Moore	3B	11
-463	Tom Murphy	C	11
-464	Omar Narvaez	C	11
-465	Zac Rosscup	P	11
-466	Nick Rumbelow	P	11
-467	Connor Sadzeck	P	11
-468	Ricardo Sanchez	P	11
-469	Domingo Santana	RF	11
-470	Justus Sheffield	P	11
-471	Mallex Smith	CF	11
-472	Erik Swanson	P	11
-473	Anthony Swarzak	P	11
-474	Sam Tuivailala	P	11
-475	Daniel Vogelbach	1B	11
-476	Mike Wright	P	11
-477	Willy Adames	SS	12
-478	Jose Alvarado	P	12
-479	Christian Arroyo	3B	12
-480	Jalen Beeks	P	12
-481	Anthony Bemboom	C	12
-482	Diego Castillo	P	12
-483	Yonny Chirinos	P	12
-484	Ji-Man Choi	1B	12
-485	Nick Ciuffo	C	12
-486	Travis d'Arnaud	C	12
-487	Yandy Diaz	3B	12
-488	Jake Faria	P	12
-489	Avisail Garcia	RF	12
-490	Ian Gibaut	P	12
-491	Tyler Glasnow	P	12
-492	Guillermo Heredia	LF	12
-493	Brent Honeywell Jr.	P	12
-494	Kevin Kiermaier	CF	12
-495	Adam Kolarek	P	12
-496	Brandon Lowe	2B	12
-497	Nate Lowe	1B	12
-498	Joe McCarthy	LF	12
-499	Austin Meadows	CF	12
-500	Charlie Morton	P	12
-501	Emilio Pagan	P	12
-502	Michael Perez	C	12
-503	Tommy Pham	CF	12
-504	Austin Pruitt	P	12
-505	Daniel Robertson	2B	12
-506	Chaz Roe	P	12
-507	Casey Sadler	P	12
-508	Jesus Sanchez	RF	12
-509	Aaron Slegers	P	12
-510	Blake Snell	P	12
-511	Ryne Stanek	P	12
-512	Andrew Velazquez	SS	12
-513	Joey Wendle	2B	12
-514	Hunter Wood	P	12
-515	Ryan Yarbrough	P	12
-516	Mike Zunino	C	12
-517	Elvis Andrus	SS	13
-518	Kyle Bird	P	13
-519	Brock Burke	P	13
-520	Asdrubal Cabrera	2B	13
-521	Willie Calhoun	LF	13
-522	Jesse Chavez	P	13
-523	Shin-Soo Choo	RF	13
-524	Delino DeShields	CF	13
-525	Kyle Dowdy	P	13
-526	Logan Forsythe	2B	13
-527	Joey Gallo	LF	13
-528	Nick Gardewine	P	13
-529	Jeanmar Gomez	P	13
-530	Zack Granite	CF	13
-531	Ronald Guzman	1B	13
-532	Taylor Hearn	P	13
-533	Jonathan Hernandez	P	13
-534	Wei-Chieh Huang	P	13
-535	Ariel Jurado	P	13
-536	Shawn Kelley	P	13
-537	Isiah Kiner-Falefa	C	13
-538	Jose Leclerc	P	13
-539	Lance Lynn	P	13
-540	Brett Martin	P	13
-541	Chris Martin	P	13
-542	Jeff Mathis	C	13
-543	Nomar Mazara	RF	13
-544	Shelby Miller	P	13
-545	Mike Minor	P	13
-546	Rougned Odor	2B	13
-547	Joe Palumbo	P	13
-548	CD Pelham	P	13
-549	Hunter Pence	OF	13
-550	Adrian Sampson	P	13
-551	Danny Santana	2B	13
-552	Drew Smyly	P	13
-553	Jeffrey Springs	P	13
-554	Carlos Tocci	CF	13
-555	Jose Trevino	C	13
-556	Patrick Wisdom	3B	13
-557	Anthony Alford	CF	14
-558	Joe Biagini	P	14
-559	Clay Buchholz	P	14
-560	Jonathan Davis	CF	14
-561	Yennsy Diaz	P	14
-562	Brandon Drury	3B	14
-563	Freddy Galvis	SS	14
-564	Sam Gaviglio	P	14
-565	Ken Giles	P	14
-566	Randal Grichuk	RF	14
-567	Javy Guerra	P	14
-568	Vladimir Guerrero Jr.	3B	14
-569	Lourdes Gurriel Jr.	2B	14
-570	Teoscar Hernandez	LF	14
-571	Daniel Hudson	P	14
-572	Danny Jansen	C	14
-573	Derek Law	P	14
-574	Elvis Luciano	P	14
-575	Luke Maile	C	14
-576	Tim Mayza	P	14
-577	Reese McGuire	C	14
-578	Billy McKinney	LF	14
-579	Julian Merryweather	P	14
-580	Patrick Murphy	P	14
-581	Thomas Pannone	P	14
-582	David Paulino	P	14
-583	Hector Perez	P	14
-584	David Phelps	P	14
-585	Sean Reid-Foley	P	14
-586	Clayton Richard	P	14
-587	Aaron Sanchez	P	14
-588	Matt Shoemaker	P	14
-589	Justin Smoak	1B	14
-590	Eric Sogard	2B	14
-591	Marcus Stroman	P	14
-592	Rowdy Tellez	1B	14
-593	Ryan Tepera	P	14
-594	Trent Thornton	P	14
-595	Richard Urena	SS	14
-596	Jacob Waguespack	P	14
-597	Nick Ahmed	SS	15
-598	Matt Andriese	P	15
-599	Alex Avila	C	15
-600	Archie Bradley	P	15
-601	Andrew Chafin	P	15
-602	Taylor Clarke	P	15
-603	Kevin Cron	3B	15
-604	Jon Duplantier	P	15
-605	Jarrod Dyson	CF	15
-606	Eduardo Escobar	3B	15
-607	Wilmer Flores	1B	15
-608	Zack Godley	P	15
-609	Zack Greinke	P	15
-610	Yoshihisa Hirano	P	15
-611	Greg Holland	P	15
-612	Adam Jones	CF	15
-613	Caleb Joseph	C	15
-614	Carson Kelly	C	15
-615	Merrill Kelly	P	15
-616	Joey Krehbiel	P	15
-617	Jake Lamb	3B	15
-618	Domingo Leyba	2B	15
-619	Tim Locastro	CF	15
-620	Yoan Lopez	P	15
-621	Ketel Marte	2B	15
-622	T.J. McFarland	P	15
-623	John Ryan Murphy	C	15
-624	Joel Payamps	P	15
-625	David Peralta	LF	15
-626	Robbie Ray	P	15
-627	Robby Scott	P	15
-628	Jimmie Sherfy	P	15
-629	Steven Souza Jr.	RF	15
-630	Blake Swihart	OF	15
-631	Bo Takahashi	P	15
-632	Emilio Vargas	P	15
-633	Ildemaro Vargas	SS	15
-634	Christian Walker	1B	15
-635	Luke Weaver	P	15
-636	Ronald Acuna Jr.	LF	16
-637	Ozzie Albies	2B	16
-638	Kolby Allard	P	16
-639	Jesse Biddle	P	16
-640	Jerry Blevins	P	16
-641	Johan Camargo	3B	16
-642	Shane Carle	P	16
-643	Charlie Culberson	LF	16
-644	Grant Dayton	P	16
-645	Josh Donaldson	3B	16
-646	Adam Duvall	LF	16
-647	Tyler Flowers	C	16
-648	Mike Foltynewicz	P	16
-649	Freddie Freeman	1B	16
-650	Max Fried	P	16
-651	Kevin Gausman	P	16
-652	Luiz Gohara	P	16
-653	Ender Inciarte	CF	16
-654	Alex Jackson	C	16
-655	Luke Jackson	P	16
-656	Matt Joyce	LF	16
-657	Nick Markakis	RF	16
-658	Brian McCann	C	16
-659	A.J. Minter	P	16
-660	Sean Newcomb	P	16
-661	Darren O'Day	P	16
-662	Wes Parsons	P	16
-663	Chad Sobotka	P	16
-664	Mike Soroka	P	16
-665	Dansby Swanson	SS	16
-666	Julio Teheran	P	16
-667	Josh Tomlin	P	16
-668	Touki Toussaint	P	16
-669	Jonny Venters	P	16
-670	Jacob Webb	P	16
-671	Patrick Weigel	P	16
-672	Bryse Wilson	P	16
-673	Dan Winkler	P	16
-674	Kyle Wright	P	16
-675	Huascar Ynoa	P	16
-676	Albert Almora Jr.	CF	17
-677	Adbert Alzolay	P	17
-678	Javier Baez	2B	17
-679	David Bote	3B	17
-680	Brad Brach	P	17
-681	Kris Bryant	3B	17
-682	Victor Caratini	C	17
-683	Xavier Cedeno	P	17
-684	Tyler Chatwood	P	17
-685	Steve Cishek	P	17
-686	Tim Collins	P	17
-687	Willson Contreras	C	17
-688	Yu Darvish	P	17
-689	Taylor Davis	C	17
-690	Oscar De La Cruz	P	17
-691	Daniel Descalso	2B	17
-692	Carl Edwards Jr.	P	17
-693	Cole Hamels	P	17
-694	Ian Happ	CF	17
-695	Kyle Hendricks	P	17
-696	Jason Heyward	RF	17
-697	Brandon Kintzler	P	17
-698	Jon Lester	P	17
-699	Dillon Maples	P	17
-700	Alec Mills	P	17
-701	Mike Montgomery	P	17
-702	James Norwood	P	17
-703	Jose Quintana	P	17
-704	Anthony Rizzo	1B	17
-705	Randy Rosario	P	17
-706	Addison Russell	SS	17
-707	Kyle Ryan	P	17
-708	Kyle Schwarber	LF	17
-709	Justin Steele	P	17
-710	Pedro Strop	P	17
-711	Duane Underwood Jr.	P	17
-712	Allen Webster	P	17
-713	Rowan Wick	P	17
-714	Mark Zagunis	RF	17
-715	Tucker Barnhart	C	18
-716	Alex Blandino	2B	18
-717	Matt Bowman	P	18
-718	Curt Casali	C	18
-719	Luis Castillo	P	18
-720	Anthony DeSclafani	P	18
-721	Derek Dietrich	2B	18
-722	Zach Duke	P	18
-723	Phillip Ervin	RF	18
-724	Kyle Farmer	C	18
-725	Amir Garrett	P	18
-726	Sonny Gray	P	18
-727	Jimmy Herget	P	18
-728	David Hernandez	P	18
-729	Jared Hughes	P	18
-730	Jose Iglesias	SS	18
-731	Raisel Iglesias	P	18
-732	Jose Lopez	P	18
-733	Michael Lorenzen	P	18
-734	Tyler Mahle	P	18
-735	Keury Mella	P	18
-736	Wandy Peralta	P	18
-737	Jose Peraza	SS	18
-738	Yasiel Puig	RF	18
-739	Cody Reed	P	18
-740	Jesus Reyes	P	18
-741	Tanner Roark	P	18
-742	Sal Romano	P	18
-743	Scott Schebler	RF	18
-744	Nick Senzel	LF	18
-745	Lucas Sims	P	18
-746	Jose Siri	CF	18
-747	Jackson Stephens	P	18
-748	Robert Stephenson	P	18
-749	Eugenio Suarez	3B	18
-750	Blake Trahan	SS	18
-751	Josh VanMeter	2B	18
-752	Joey Votto	1B	18
-753	Jesse Winker	RF	18
-754	Alex Wood	P	18
-755	Yency Almonte	P	19
-756	Tyler Anderson	P	19
-757	Nolan Arenado	3B	19
-758	Chad Bettis	P	19
-759	Charlie Blackmon	RF	19
-760	Ryan Castellani	P	19
-761	Noel Cuevas	RF	19
-762	David Dahl	LF	19
-763	Wade Davis	P	19
-764	Yonathan Daza	CF	19
-765	Ian Desmond	CF	19
-766	Mike Dunn	P	19
-767	Carlos Estevez	P	19
-768	Kyle Freeland	P	19
-769	Josh Fuentes	3B	19
-770	Jon Gray	P	19
-771	Garrett Hampson	2B	19
-772	Sam Hilliard	RF	19
-773	Jeff Hoffman	P	19
-774	Chris Iannetta	C	19
-775	DJ Johnson	P	19
-776	Justin Lawrence	P	19
-777	German Marquez	P	19
-778	Jake McGee	P	19
-779	Ryan McMahon	2B	19
-780	Daniel Murphy	1B	19
-781	Harrison Musgrave	P	19
-782	Scott Oberg	P	19
-783	Seunghwan Oh	P	19
-784	James Pazos	P	19
-785	Mark Reynolds	1B	19
-786	Chris Rusin	P	19
-787	Antonio Senzatela	P	19
-788	Bryan Shaw	P	19
-789	Trevor Story	SS	19
-790	Raimel Tapia	CF	19
-791	Jesus Tinoco	P	19
-792	Pat Valaika	3B	19
-793	Tony Wolters	C	19
-794	Scott Alexander	P	20
-795	Yadier Alvarez	P	20
-796	Pedro Baez	P	20
-797	Austin Barnes	C	20
-798	Matt Beaty	1B	20
-799	Cody Bellinger	1B	20
-800	Walker Buehler	P	20
-801	JT Chargois	P	20
-802	Tony Cingrani	P	20
-803	Caleb Ferguson	P	20
-804	Dylan Floro	P	20
-805	David Freese	3B	20
-806	Rocky Gale	C	20
-807	Yimi Garcia	P	20
-808	Enrique Hernandez	CF	20
-809	Rich Hill	P	20
-810	Kenley Jansen	P	20
-811	Joe Kelly	P	20
-812	Clayton Kershaw	P	20
-813	Kenta Maeda	P	20
-814	Russell Martin	C	20
-815	Adam McCreery	P	20
-816	Max Muncy	1B	20
-817	Joc Pederson	LF	20
-818	A.J. Pollock	CF	20
-819	Edwin Rios	3B	20
-820	Keibert Ruiz	C	20
-821	Hyun-Jin Ryu	P	20
-822	Dennis Santana	P	20
-823	Josh Sborz	P	20
-824	Jaime Schultz	P	20
-825	Corey Seager	SS	20
-826	Brock Stewart	P	20
-827	Ross Stripling	P	20
-828	Chris Taylor	SS	20
-829	Justin Turner	3B	20
-830	Julio Urias	P	20
-831	Alex Verdugo	CF	20
-832	Sandy Alcantara	P	21
-833	Jorge Alfaro	C	21
-834	Brian Anderson	3B	21
-835	Nick Anderson	P	21
-836	Jon Berti	3B	21
-837	Austin Brice	P	21
-838	Jeff Brigham	P	21
-839	Lewis Brinson	CF	21
-840	Starlin Castro	2B	21
-841	Wei-Yin Chen	P	21
-842	Adam Conley	P	21
-843	Garrett Cooper	LF	21
-844	Austin Dean	LF	21
-845	Isan Diaz	2B	21
-846	Isaac Galloway	RF	21
-847	Jarlin Garcia	P	21
-848	Curtis Granderson	OF	21
-849	Tayron Guerrero	P	21
-850	Jorge Guzman	P	21
-851	Monte Harrison	CF	21
-852	Elieser Hernandez	P	21
-853	Rosell Herrera	RF	21
-854	Jordan Holloway	P	21
-855	Kyle Keller	P	21
-856	Tyler Kinley	P	21
-857	Pablo Lopez	P	21
-858	Peter O'Brien	OF	21
-859	Martin Prado	3B	21
-860	Jose Quijada	P	21
-861	Harold Ramirez	RF	21
-862	Trevor Richards	P	21
-863	JT Riddle	SS	21
-864	Miguel Rojas	SS	21
-865	Sergio Romo	P	21
-866	Magneuris Sierra	CF	21
-867	Caleb Smith	P	21
-868	Jose Urena	P	21
-869	Neil Walker	1B	21
-870	Chad Wallach	C	21
-871	Jordan Yamamoto	P	21
-872	Jesus Aguilar	1B	22
-873	Matt Albers	P	22
-874	Chase Anderson	P	22
-875	Orlando Arcia	SS	22
-876	Jacob Barnes	P	22
-877	Ryan Braun	LF	22
-878	Corbin Burnes	P	22
-879	Lorenzo Cain	CF	22
-880	Jhoulys Chacin	P	22
-881	Alex Claudio	P	22
-882	Zach Davies	P	22
-883	Marcos Diplan	P	22
-884	Mauricio Dubon	SS	22
-885	David Freitas	C	22
-886	Ben Gamel	LF	22
-887	Gio Gonzalez	P	22
-888	Yasmani Grandal	C	22
-889	Junior Guerra	P	22
-890	Josh Hader	P	22
-891	Donnie Hart	P	22
-892	Adrian Houser	P	22
-893	Jeremy Jeffress	P	22
-894	Mike Moustakas	3B	22
-895	Jimmy Nelson	P	22
-896	Jacob Nottingham	C	22
-897	Freddy Peralta	P	22
-898	Hernan Perez	2B	22
-899	Manny Pina	C	22
-900	Tyler Saladino	SS	22
-901	Travis Shaw	3B	22
-902	Burch Smith	P	22
-903	Cory Spangenberg	3B	22
-904	Troy Stokes Jr.	LF	22
-905	Trey Supak	P	22
-906	Tyrone Taylor	CF	22
-907	Eric Thames	1B	22
-908	Aaron Wilkerson	P	22
-909	Taylor Williams	P	22
-910	Brandon Woodruff	P	22
-911	Christian Yelich	LF	22
-912	Pete Alonso	1B	23
-913	Luis Avilan	P	23
-914	Tyler Bashlor	P	23
-915	Keon Broxton	CF	23
-916	Robinson Cano	2B	23
-917	Michael Conforto	LF	23
-918	J.D. Davis	3B	23
-919	Jacob deGrom	P	23
-920	Edwin Diaz	P	23
-921	Jeurys Familia	P	23
-922	Chris Flexen	P	23
-923	Wilmer Font	P	23
-924	Todd Frazier	3B	23
-925	Drew Gagnon	P	23
-926	Robert Gsellman	P	23
-927	Luis Guillorme	SS	23
-928	Eric Hanhold	P	23
-929	Adeiny Hechavarria	SS	23
-930	Franklyn Kilome	P	23
-931	Juan Lagares	CF	23
-932	Walker Lockett	P	23
-933	Jed Lowrie	2B	23
-934	Seth Lugo	P	23
-935	Steven Matz	P	23
-936	Jeff McNeil	2B	23
-937	Tomas Nido	C	23
-938	Brandon Nimmo	CF	23
-939	Ryan O'Rourke	P	23
-940	Corey Oswalt	P	23
-941	Tim Peterson	P	23
-942	Wilson Ramos	C	23
-943	Jacob Rhame	P	23
-944	Amed Rosario	SS	23
-945	Paul Sewald	P	23
-946	Dominic Smith	1B	23
-947	Noah Syndergaard	P	23
-948	Jason Vargas	P	23
-949	Zack Wheeler	P	23
-950	Justin Wilson	P	23
-951	Daniel Zamora	P	23
-952	Jose Alvarez	P	24
-953	Drew Anderson	P	24
-954	Victor Arano	P	24
-955	Jake Arrieta	P	24
-956	Dylan Cozens	RF	24
-957	Austin Davis	P	24
-958	Enyel De Los Santos	P	24
-959	Seranthony Dominguez	P	24
-960	Zach Eflin	P	24
-961	Jerad Eickhoff	P	24
-962	Maikel Franco	3B	24
-963	Arquimedes Gamboa	SS	24
-964	Edgar Garcia	P	24
-965	Phil Gosselin	2B	24
-966	Bryce Harper	RF	24
-967	Cesar Hernandez	2B	24
-968	Odubel Herrera	CF	24
-969	Rhys Hoskins	1B	24
-970	Cole  Irvin	P	24
-971	Scott Kingery	SS	24
-972	Andrew Knapp	C	24
-973	Andrew McCutchen	RF	24
-974	Adonis Medina	P	24
-975	Adam Morgan	P	24
-976	Hector Neris	P	24
-977	Pat Neshek	P	24
-978	Juan Nicasio	P	24
-979	Aaron Nola	P	24
-980	Nick Pivetta	P	24
-981	Roman Quinn	CF	24
-982	Edubray Ramos	P	24
-983	J.T. Realmuto	C	24
-984	Yacksel Rios	P	24
-985	David Robertson	P	24
-986	Sean Rodriguez	2B	24
-987	Jean Segura	SS	24
-988	Ranger Suarez	P	24
-989	Vince Velasquez	P	24
-990	Mitch Walding	3B	24
-991	Nick Williams	RF	24
-992	Chris Archer	P	25
-993	Josh Bell	1B	25
-994	Steven Brault	P	25
-995	JT Brubaker	P	25
-996	Melky Cabrera	OF	25
-997	Francisco Cervelli	C	25
-998	Lonnie Chisenhall	OF	25
-999	Kyle Crick	P	25
-1000	Elias Diaz	C	25
-1001	Corey Dickerson	LF	25
-1002	Montana DuRapau	P	25
-1003	Luis Escobar	P	25
-1004	Michael Feliz	P	25
-1005	Adam Frazier	2B	25
-1006	Clay Holmes	P	25
-1007	Jung Ho Kang	3B	25
-1008	Keone Kela	P	25
-1009	Mitch Keller	P	25
-1010	Nick Kingham	P	25
-1011	Kevin Kramer	2B	25
-1012	Jesus Liranzo	P	25
-1013	Francisco Liriano	P	25
-1014	Jordan Lyles	P	25
-1015	Starling Marte	CF	25
-1016	Jason Martin	CF	25
-1017	Colin Moran	3B	25
-1018	Joe Musgrove	P	25
-1019	Dovydas Neverauskas	P	25
-1020	Kevin Newman	2B	25
-1021	Jose Osuna	3B	25
-1022	Gregory Polanco	RF	25
-1023	Pablo Reyes	LF	25
-1024	Bryan Reynolds	LF	25
-1025	Richard Rodriguez	P	25
-1026	Jacob Stallings	C	25
-1027	Chris Stratton	P	25
-1028	Jameson Taillon	P	25
-1029	Cole Tucker	SS	25
-1030	Felipe Vazquez	P	25
-1031	Trevor Williams	P	25
-1032	Austin Allen	C	26
-1033	Pedro Avila	P	26
-1034	Franchy Cordero	LF	26
-1035	Alex Dickerson	LF	26
-1036	Robbie Erlin	P	26
-1037	Anderson Espinoza	P	26
-1038	Ty France	3B	26
-1039	Greg Garcia	SS	26
-1040	Javy Guerra	SS	26
-1041	Austin Hedges	C	26
-1042	Eric Hosmer	1B	26
-1043	Ian Kinsler	2B	26
-1044	Eric Lauer	P	26
-1045	Aaron Loup	P	26
-1046	Joey Lucchesi	P	26
-1047	Manny Machado	3B	26
-1048	Nick Margevicius	P	26
-1049	Manuel Margot	CF	26
-1050	Phil Maton	P	26
-1051	Francisco Mejia	C	26
-1052	Wil Myers	LF	26
-1053	Edward Olivares	CF	26
-1054	Chris Paddack	P	26
-1055	Luis Perdomo	P	26
-1056	Jose Pirela	LF	26
-1057	Cal Quantrill	P	26
-1058	Hunter Renfroe	RF	26
-1059	Franmil Reyes	RF	26
-1060	Gerardo Reyes	P	26
-1061	Craig Stammen	P	26
-1062	Robert Stock	P	26
-1063	Matt Strahm	P	26
-1064	Fernando Tatis Jr.	SS	26
-1065	Luis Torrens	C	26
-1066	Luis Urias	2B	26
-1067	Adam Warren	P	26
-1068	Brad Wieck	P	26
-1069	Trey Wingenter	P	26
-1070	Matt Wisler	P	26
-1071	Kirby Yates	P	26
-1072	Melvin Adon	P	27
-1073	Aaron Altherr	CF	27
-1074	Tyler Austin	1B	27
-1075	Abiatal Avelino	SS	27
-1076	Tyler Beede	P	27
-1077	Brandon Belt	1B	27
-1078	Travis Bergen	P	27
-1079	Ty Blach	P	27
-1080	Ray Black	P	27
-1081	Madison Bumgarner	P	27
-1082	Sam Coonrod	P	27
-1083	Brandon Crawford	SS	27
-1084	Steven Duggar	CF	27
-1085	Sam Dyson	P	27
-1086	Aramis Garcia	C	27
-1087	Mike Gerber	CF	27
-1088	Trevor Gott	P	27
-1089	Derek Holland	P	27
-1090	Williams Jerez	P	27
-1091	Ryder Jones	3B	27
-1092	Erik Kratz	C	27
-1093	Evan Longoria	3B	27
-1094	Mark Melancon	P	27
-1095	Reyes Moronta	P	27
-1096	Joe Panik	2B	27
-1097	Kevin Pillar	CF	27
-1098	Drew Pomeranz	P	27
-1099	Buster Posey	C	27
-1100	Dereck Rodriguez	P	27
-1101	Jeff Samardzija	P	27
-1102	Pablo Sandoval	3B	27
-1103	Chris Shaw	LF	27
-1104	Austin Slater	LF	27
-1105	Will Smith	P	27
-1106	Donovan Solano	2B	27
-1107	Andrew Suarez	P	27
-1108	Nick Vincent	P	27
-1109	Stephen Vogt	C	27
-1110	Tony Watson	P	27
-1111	Mac Williamson	RF	27
-1112	Harrison Bader	CF	28
-1113	John Brebbia	P	28
-1114	Genesis Cabrera	P	28
-1115	Matt Carpenter	3B	28
-1116	Paul DeJong	SS	28
-1117	Jack Flaherty	P	28
-1118	Dexter Fowler	RF	28
-1119	Giovanny Gallegos	P	28
-1120	John Gant	P	28
-1121	Adolis Garcia	RF	28
-1122	Paul Goldschmidt	1B	28
-1123	Austin Gomber	P	28
-1124	Merandy Gonzalez	P	28
-1125	Luke Gregerson	P	28
-1126	Jedd Gyorko	3B	28
-1127	Ryan Helsley	P	28
-1128	Jordan Hicks	P	28
-1129	Dakota Hudson	P	28
-1130	Dominic Leone	P	28
-1131	Carlos Martinez	P	28
-1132	Jose Martinez	OF	28
-1133	Mike Mayers	P	28
-1134	Miles Mikolas	P	28
-1135	Andrew Miller	P	28
-1136	Yadier Molina	C	28
-1137	Yairo Munoz	SS	28
-1138	Tyler O'Neill	LF	28
-1139	Marcell Ozuna	LF	28
-1140	Daniel Ponce de Leon	P	28
-1141	Alex Reyes	P	28
-1142	Drew Robinson	3B	28
-1143	Edmundo Sosa	SS	28
-1144	Lane Thomas	CF	28
-1145	Ramon Urias	2B	28
-1146	Michael Wacha	P	28
-1147	Adam Wainwright	P	28
-1148	Tyler Webb	P	28
-1149	Matt Wieters	C	28
-1150	Justin Williams	LF	28
-1151	Kolten Wong	2B	28
-1152	Matt Adams	1B	29
-1153	Kyle Barraclough	P	29
-1154	James Bourque	P	29
-1155	Patrick Corbin	P	29
-1156	Wilmer Difo	2B	29
-1157	Sean Doolittle	P	29
-1158	Brian Dozier	2B	29
-1159	Adam Eaton	RF	29
-1160	Erick Fedde	P	29
-1161	Yan Gomes	C	29
-1162	Matt Grace	P	29
-1163	Jeremy Hellickson	P	29
-1164	Dan Jennings	P	29
-1165	Howie Kendrick	2B	29
-1166	Carter Kieboom	SS	29
-1167	Spencer Kieboom	C	29
-1168	Kyle McGowin	P	29
-1169	Justin Miller	P	29
-1170	Jake Noll	3B	29
-1171	Gerardo Parra	LF	29
-1172	Tanner Rainey	P	29
-1173	Raudy Read	C	29
-1174	Anthony Rendon	3B	29
-1175	Victor Robles	CF	29
-1176	Trevor Rosenthal	P	29
-1177	Joe Ross	P	29
-1178	Adrian Sanchez	SS	29
-1179	Anibal Sanchez	P	29
-1180	Max Scherzer	P	29
-1181	Tony Sipp	P	29
-1182	Juan Soto	LF	29
-1183	Andrew Stevenson	LF	29
-1184	Stephen Strasburg	P	29
-1185	Wander Suero	P	29
-1186	Kurt Suzuki	C	29
-1187	Michael A. Taylor	CF	29
-1188	Trea Turner	SS	29
-1189	Austin Voth	P	29
-1190	Austen Williams	P	29
-1191	Ryan Zimmerman	1B	29
+Hanser Alberto	SS	1
+Shawn Armstrong	P	1
+Richard Bleier	P	1
+Dylan Bundy	P	1
+Cody Carroll	P	1
+Andrew Cashner	P	1
+Miguel Castro	P	1
+Alex Cobb	P	1
+Chris Davis	1B	1
+Paul Fry	P	1
+Mychal Givens	P	1
+Hunter Harvey	P	1
+Austin Hays	RF	1
+David Hess	P	1
+Branden Kline	P	1
+Josh Lucas	P	1
+Trey Mancini	LF	1
+Richie Martin	SS	1
+John Means	P	1
+Cedric Mullins	CF	1
+Renato Nunez	3B	1
+Luis Ortiz	P	1
+Evan Phillips	P	1
+Yefry Ramirez	P	1
+Joey Rickard	CF	1
+Josh Rogers	P	1
+Rio Ruiz	3B	1
+Anthony Santander	LF	1
+Tanner Scott	P	1
+Pedro Severino	C	1
+Chance Sisco	C	1
+Dwight Smith Jr	LF	1
+DJ Stewart	RF	1
+Dan Straily	P	1
+Dillon Tate	P	1
+Jonathan Villar	2B	1
+Stevie Wilkerson	2B	1
+Austin Wynns	C	1
+Jimmy Yacabonis	P	1
+Gabriel Ynoa	P	1
+Matt Barnes	P	2
+Andrew Benintendi	LF	2
+Mookie Betts	RF	2
+Xander Bogaerts	SS	2
+Jackie Bradley Jr.	CF	2
+Ryan Brasier	P	2
+Colten Brewer	P	2
+Michael Chavis	3B	2
+Joey Curletta	1B	2
+Rafael Devers	3B	2
+Nathan Eovaldi	P	2
+Heath Hembree	P	2
+Darwinzon Hernandez	P	2
+Marco Hernandez	3B	2
+Oscar Hernandez	C	2
+Brock Holt	2B	2
+Brian Johnson	P	2
+Travis Lakins	P	2
+Sandy Leon	C	2
+Tzu-Wei Lin	SS	2
+J.D. Martinez	LF	2
+Mitch Moreland	1B	2
+Eduardo Nunez	2B	2
+Steve Pearce	1B	2
+Dustin Pedroia	2B	2
+Rick Porcello	P	2
+Bobby Poyner	P	2
+David Price	P	2
+Denyi Reyes	P	2
+Eduardo Rodriguez	P	2
+Chris Sale	P	2
+Josh A. Smith	P	2
+Josh Taylor	P	2
+Tyler Thornburg	P	2
+Sam Travis	1B	2
+Christian Vazquez	C	2
+Hector Velazquez	P	2
+Marcus Walden	P	2
+Ryan Weber	P	2
+Brandon Workman	P	2
+Jose Abreu	1B	3
+Micker Adolfo	OF	3
+Yonder Alonso	1B	3
+Tim Anderson	SS	3
+Manny Banuelos	P	3
+Luis Alexander Basabe	CF	3
+Aaron Bummer	P	3
+Ryan Burr	P	3
+Welington Castillo	C	3
+Dylan Cease	P	3
+Alex Colome	P	3
+Ryan Cordell	CF	3
+Dylan Covey	P	3
+Nicky Delmonico	LF	3
+Adam Engel	CF	3
+Caleb Frare	P	3
+Jace Fry	P	3
+Carson Fulmer	P	3
+Leury Garcia	LF	3
+Lucas Giolito	P	3
+Ian Hamilton	P	3
+Kelvin Herrera	P	3
+Eloy Jimenez	LF	3
+Reynaldo Lopez	P	3
+Evan Marshall	P	3
+James McCann	C	3
+Kodi Medeiros	P	3
+Juan Minaya	P	3
+Yoan Moncada	3B	3
+Ivan Nova	P	3
+Josh Osich	P	3
+Daniel Palka	RF	3
+Carlos Rodon	P	3
+Jose Rondon	2B	3
+Jose Ruiz	P	3
+Yolmer Sanchez	2B	3
+Jordan Stephens	P	3
+Charlie Tilson	CF	3
+Thyago Vieira	P	3
+Seby Zavala	C	3
+Greg Allen	CF	4
+Cody Anderson	P	4
+Trevor Bauer	P	4
+Jake Bauers	OF	4
+Shane Bieber	P	4
+Bobby Bradley	1B	4
+Carlos Carrasco	P	4
+Yu Chang	SS	4
+Adam Cimber	P	4
+Tyler Clippard	P	4
+A.J. Cole	P	4
+Jon Edwards	P	4
+Mike Freeman	SS	4
+Carlos Gonzalez	OF	4
+Nick Goody	P	4
+Eric Haase	C	4
+Brad Hand	P	4
+Sam Hentges	P	4
+Chih-Wei Hu	P	4
+Jason Kipnis	2B	4
+Corey Kluber	P	4
+Francisco Lindor	SS	4
+Jordan Luplow	RF	4
+Leonys Martin	CF	4
+Jean Carlos Mejia	P	4
+Oscar Mercado	CF	4
+Tyler Naquin	RF	4
+Tyler Olson	P	4
+Dan Otero	P	4
+Oliver Perez	P	4
+Roberto Perez	C	4
+Kevin Plawecki	C	4
+Adam Plutko	P	4
+Jose Ramirez	3B	4
+Jefry Rodriguez	P	4
+Carlos Santana	1B	4
+Eric Stamets	SS	4
+Nick Wittgren	P	4
+Bradley Zimmer	CF	4
+Sergio Alcantara	SS	5
+Victor Alcantara	P	5
+Sandy Baez	P	5
+Gordon Beckham	2B	5
+Matthew Boyd	P	5
+Miguel Cabrera	1B	5
+Jeimer Candelario	3B	5
+Ryan Carpenter	P	5
+Nicholas Castellanos	RF	5
+Harold Castro	3B	5
+Willi Castro	SS	5
+Brandon Dixon	2B	5
+Buck Farmer	P	5
+Jose Manuel Fernandez	P	5
+Niko Goodrum	2B	5
+Shane Greene	P	5
+Grayson Greiner	C	5
+Matt Hall	P	5
+Blaine Hardy	P	5
+Josh Harrison	2B	5
+John Hicks	C	5
+Eduardo Jimenez	P	5
+Joe Jimenez	P	5
+JaCoby Jones	LF	5
+Dawel Lugo	2B	5
+Jordy Mercer	SS	5
+Daniel Norris	P	5
+Franklin Perez	P	5
+Dustin Peterson	RF	5
+Nick Ramirez	P	5
+Zac Reininger	P	5
+Victor Reyes	LF	5
+Ronny Rodriguez	2B	5
+Tyson Ross	P	5
+Gregory Soto	P	5
+Christin Stewart	LF	5
+Daniel Stumpf	P	5
+Spencer Turnbull	P	5
+Jordan Zimmermann	P	5
+Bryan Abreu	P	6
+Jose Altuve	2B	6
+Rogelio Armenteros	P	6
+Michael Brantley	LF	6
+Alex Bregman	3B	6
+Robinson Chirinos	C	6
+Gerrit Cole	P	6
+Carlos Correa	SS	6
+Dean Deetz	P	6
+Chris Devenski	P	6
+Aledmys Diaz	SS	6
+Derek Fisher	CF	6
+Reymin Guduan	P	6
+Yuli Gurriel	1B	6
+Will Harris	P	6
+Josh James	P	6
+Tony Kemp	LF	6
+Jake Marisnick	CF	6
+Corbin Martin	P	6
+Lance McCullers Jr.	P	6
+Collin McHugh	P	6
+Wade Miley	P	6
+Roberto Osuna	P	6
+Brad Peacock	P	6
+Cionel Perez	P	6
+Ryan Pressly	P	6
+Josh Reddick	RF	6
+AJ Reed	1B	6
+Brady Rodgers	P	6
+Hector Rondon	P	6
+Joe Smith	P	6
+George Springer	CF	6
+Max Stassi	C	6
+Myles Straw	CF	6
+Garrett Stubbs	C	6
+Kyle Tucker	RF	6
+Framber Valdez	P	6
+Justin Verlander	P	6
+Tyler White	1B	6
+Homer Bailey	P	7
+Scott Barlow	P	7
+Scott Blewett	P	7
+Jorge Bonifacio	RF	7
+Brad Boxberger	P	7
+Jake Diekman	P	7
+Hunter Dozier	1B	7
+Lucas Duda	1B	7
+Danny Duffy	P	7
+Heath Fillmyer	P	7
+Brian Flynn	P	7
+Cam Gallagher	C	7
+Alex Gordon	LF	7
+Terrance Gore	CF	7
+Conner Greene	P	7
+Kelvin Gutierrez	3B	7
+Billy Hamilton	CF	7
+Arnaldo Hernandez	P	7
+Tim Hill	P	7
+Jakob Junis	P	7
+Brad Keller	P	7
+Ian Kennedy	P	7
+Ben Lively	P	7
+Jorge Lopez	P	7
+Nicky Lopez	SS	7
+Richard Lovelady	P	7
+Martin Maldonado	C	7
+Kevin McCarthy	P	7
+Whit Merrifield	2B	7
+Adalberto Mondesi	SS	7
+Jake Newberry	P	7
+Ryan O'Hearn	1B	7
+Chris Owings	2B	7
+Wily Peralta	P	7
+Brett Phillips	RF	7
+Jorge Soler	RF	7
+Glenn Sparkman	P	7
+Josh Staumont	P	7
+Meibrys Viloria	C	7
+Kyle Zimmer	P	7
+Cody Allen	P	8
+Justin Anderson	P	8
+Luke Bard	P	8
+Jaime Barria	P	8
+Cam Bedrosian	P	8
+Justin Bour	1B	8
+Jose Briceno	C	8
+Ty Buttrey	P	8
+Trevor Cahill	P	8
+Kole Calhoun	RF	8
+Griffin Canning	P	8
+Taylor Cole	P	8
+Zack Cozart	3B	8
+David Fletcher	3B	8
+Luis Garcia	P	8
+Brian Goodwin	CF	8
+Matt Harvey	P	8
+Andrew Heaney	P	8
+Michael Hermosillo	CF	8
+Jake Jewell	P	8
+Tommy La Stella	3B	8
+Jonathan Lucroy	C	8
+Luis Madero	P	8
+Shohei Ohtani	P	8
+Felix Pena	P	8
+Dillon Peters	P	8
+Albert Pujols	1B	8
+Noe Ramirez	P	8
+Matt Ramsey	P	8
+Luis Rengifo	2B	8
+Hansel Robles	P	8
+Andrelton Simmons	SS	8
+Tyler Skaggs	P	8
+Kevan Smith	C	8
+Jose Suarez	P	8
+Nick Tropeano	P	8
+Mike Trout	CF	8
+Jared Walsh	1B	8
+Taylor Ward	3B	8
+Austin Adams	P	9
+Ehire Adrianza	SS	9
+Luis Arraez	2B	9
+Willians Astudillo	C	9
+Jose Berrios	P	9
+Byron Buxton	CF	9
+Jason Castro	C	9
+Jake Cave	CF	9
+C.J. Cron	1B	9
+Nelson Cruz	DH	9
+Tyler Duffey	P	9
+Mitch Garver	C	9
+Kyle Gibson	P	9
+Stephen Gonsalves	P	9
+Marwin Gonzalez	3B	9
+Nick Gordon	SS	9
+Ryne Harper	P	9
+Trevor Hildenberger	P	9
+Max Kepler	RF	9
+Zack Littell	P	9
+Matt Magill	P	9
+Trevor May	P	9
+Adalberto Mejia	P	9
+Mike Morin	P	9
+Gabriel Moya	P	9
+Jake Odorizzi	P	9
+Blake Parker	P	9
+Martin Perez	P	9
+Michael Pineda	P	9
+Jorge Polanco	SS	9
+Taylor Rogers	P	9
+Fernando Romero	P	9
+Eddie Rosario	LF	9
+Miguel Sano	3B	9
+Jonathan Schoop	2B	9
+Kohl Stewart	P	9
+Lewis Thorpe	P	9
+Ronald Torreyes	2B	9
+Andrew Vasquez	P	9
+LaMonte Wade Jr	LF	9
+Albert Abreu	P	10
+Domingo Acevedo	P	10
+Chance Adams	P	10
+Miguel Andujar	3B	10
+Jake Barrett	P	10
+Zack Britton	P	10
+Luis Cessa	P	10
+Aroldis Chapman	P	10
+Nestor Cortes Jr.	P	10
+Thairo Estrada	SS	10
+Mike Ford	1B	10
+Clint Frazier	LF	10
+Brett Gardner	LF	10
+Domingo German	P	10
+Chad Green	P	10
+J.A. Happ	P	10
+Joe Harvey	P	10
+Aaron Hicks	CF	10
+Kyle Higashioka	C	10
+Jonathan Holder	P	10
+Aaron Judge	RF	10
+Tommy Kahnle	P	10
+DJ LeMahieu	2B	10
+Cameron Maybin	LF	10
+Kendrys Morales	DH	10
+Adam Ottavino	P	10
+James Paxton	P	10
+Austin Romine	C	10
+CC Sabathia	P	10
+Gary Sanchez	C	10
+Giancarlo Stanton	RF	10
+Masahiro Tanaka	P	10
+Stephen Tarpley	P	10
+Mike Tauchman	CF	10
+Gleyber Torres	2B	10
+Troy Tulowitzki	SS	10
+Gio Urshela	3B	10
+Breyvic Valera	2B	10
+Luke Voit	1B	10
+Tyler Wade	SS	10
+Brett Anderson	P	11
+Tanner Anderson	P	11
+Luis Barrera	CF	11
+Franklin Barreto	2B	11
+Chris Bassitt	P	11
+Paul Blackburn	P	11
+Skye Bolt	CF	11
+Aaron Brooks	P	11
+Ryan Buchter	P	11
+Mark Canha	CF	11
+Matt Chapman	3B	11
+Khris Davis	LF	11
+Ryan Dull	P	11
+Marco Estrada	P	11
+Mike Fiers	P	11
+Dustin Fowler	CF	11
+Robbie Grossman	RF	11
+Liam Hendriks	P	11
+Grant Holmes	P	11
+Nick Hundley	C	11
+James Kaprielian	P	11
+Ramon Laureano	RF	11
+Nick Martini	LF	11
+Jorge Mateo	SS	11
+Daniel Mengden	P	11
+Frankie Montas	P	11
+Matt Olson	1B	11
+Yusmeiro Petit	P	11
+Josh Phegley	C	11
+Chad Pinder	LF	11
+Stephen Piscotty	RF	11
+Jurickson Profar	SS	11
+Fernando Rodney	P	11
+Marcus Semien	SS	11
+Joakim Soria	P	11
+Blake Treinen	P	11
+Andrew Triggs	P	11
+Lou Trivino	P	11
+J.B. Wendelken	P	11
+Austin Adams	P	12
+R.J. Alaniz	P	12
+Dan Altavilla	P	12
+Gerson Bautista	P	12
+Tim Beckham	SS	12
+Jesse Biddle	P	12
+Braden Bishop	CF	12
+Chasen Bradford	P	12
+Brandon Brennan	P	12
+Jay Bruce	RF	12
+J.P. Crawford	SS	12
+Roenis Elias	P	12
+Edwin Encarnacion	DH	12
+Matt Festa	P	12
+Ryan Garton	P	12
+Cory Gearrin	P	12
+Marco Gonzales	P	12
+Dee Gordon	2B	12
+Mitch Haniger	RF	12
+Ryon Healy	1B	12
+Felix Hernandez	P	12
+Yusei Kikuchi	P	12
+Mike Leake	P	12
+Wade LeBlanc	P	12
+Shed Long	2B	12
+Parker Markel	P	12
+David McKay	P	12
+Andrew Moore	P	12
+Dylan Moore	3B	12
+Tom Murphy	C	12
+Omar Narvaez	C	12
+Connor Sadzeck	P	12
+Ricardo Sanchez	P	12
+Domingo Santana	RF	12
+Justus Sheffield	P	12
+Mallex Smith	CF	12
+Erik Swanson	P	12
+Sam Tuivailala	P	12
+Daniel Vogelbach	1B	12
+Willy Adames	SS	13
+Jose Alvarado	P	13
+Christian Arroyo	3B	13
+Jalen Beeks	P	13
+Anthony Bemboom	C	13
+Diego Castillo	P	13
+Yonny Chirinos	P	13
+Ji-Man Choi	1B	13
+Nick Ciuffo	C	13
+Travis d'Arnaud	C	13
+Yandy Diaz	3B	13
+Jake Faria	P	13
+Avisail Garcia	RF	13
+Ian Gibaut	P	13
+Tyler Glasnow	P	13
+Guillermo Heredia	LF	13
+Brent Honeywell Jr.	P	13
+Kevin Kiermaier	CF	13
+Adam Kolarek	P	13
+Erik Kratz	C	13
+Brandon Lowe	2B	13
+Nate Lowe	1B	13
+Joe McCarthy	LF	13
+Austin Meadows	CF	13
+Charlie Morton	P	13
+Emilio Pagan	P	13
+Michael Perez	C	13
+Tommy Pham	CF	13
+Austin Pruitt	P	13
+Daniel Robertson	2B	13
+Chaz Roe	P	13
+Casey Sadler	P	13
+Jesus Sanchez	RF	13
+Blake Snell	P	13
+Ryne Stanek	P	13
+Andrew Velazquez	SS	13
+Joey Wendle	2B	13
+Hunter Wood	P	13
+Ryan Yarbrough	P	13
+Mike Zunino	C	13
+Elvis Andrus	SS	14
+Kyle Bird	P	14
+Brock Burke	P	14
+Asdrubal Cabrera	2B	14
+Willie Calhoun	LF	14
+Jesse Chavez	P	14
+Shin-Soo Choo	RF	14
+Delino DeShields	CF	14
+Kyle Dowdy	P	14
+Logan Forsythe	2B	14
+Joey Gallo	LF	14
+Nick Gardewine	P	14
+Jeanmar Gomez	P	14
+Zack Granite	CF	14
+Ronald Guzman	1B	14
+Taylor Hearn	P	14
+Jonathan Hernandez	P	14
+Wei-Chieh Huang	P	14
+Ariel Jurado	P	14
+Shawn Kelley	P	14
+Isiah Kiner-Falefa	C	14
+Jose Leclerc	P	14
+Lance Lynn	P	14
+Brett Martin	P	14
+Chris Martin	P	14
+Jeff Mathis	C	14
+Nomar Mazara	RF	14
+Shelby Miller	P	14
+Mike Minor	P	14
+Rougned Odor	2B	14
+Joe Palumbo	P	14
+CD Pelham	P	14
+Hunter Pence	OF	14
+Adrian Sampson	P	14
+Danny Santana	2B	14
+Drew Smyly	P	14
+Jeffrey Springs	P	14
+Carlos Tocci	CF	14
+Jose Trevino	C	14
+Patrick Wisdom	3B	14
+Anthony Alford	CF	15
+Joe Biagini	P	15
+Clay Buchholz	P	15
+Jimmy Cordero	P	15
+Jonathan Davis	CF	15
+Yennsy Diaz	P	15
+Brandon Drury	3B	15
+Ryan Feierabend	P	15
+Freddy Galvis	SS	15
+Sam Gaviglio	P	15
+Ken Giles	P	15
+Randal Grichuk	RF	15
+Vladimir Guerrero Jr.	3B	15
+Lourdes Gurriel Jr.	2B	15
+Teoscar Hernandez	LF	15
+Daniel Hudson	P	15
+Edwin Jackson	P	15
+Danny Jansen	C	15
+Derek Law	P	15
+Elvis Luciano	P	15
+Luke Maile	C	15
+Tim Mayza	P	15
+Reese McGuire	C	15
+Billy McKinney	LF	15
+Julian Merryweather	P	15
+Patrick Murphy	P	15
+Thomas Pannone	P	15
+David Paulino	P	15
+Hector Perez	P	15
+Sean Reid-Foley	P	15
+Clayton Richard	P	15
+Aaron Sanchez	P	15
+Justin Smoak	1B	15
+Eric Sogard	2B	15
+Marcus Stroman	P	15
+Rowdy Tellez	1B	15
+Ryan Tepera	P	15
+Trent Thornton	P	15
+Richard Urena	SS	15
+Jacob Waguespack	P	15
+Nick Ahmed	SS	16
+Matt Andriese	P	16
+Alex Avila	C	16
+Archie Bradley	P	16
+Andrew Chafin	P	16
+Taylor Clarke	P	16
+Kevin Cron	3B	16
+Jon Duplantier	P	16
+Jarrod Dyson	CF	16
+Eduardo Escobar	3B	16
+Wilmer Flores	1B	16
+Zack Godley	P	16
+Zack Greinke	P	16
+Yoshihisa Hirano	P	16
+Greg Holland	P	16
+Adam Jones	CF	16
+Caleb Joseph	C	16
+Carson Kelly	C	16
+Merrill Kelly	P	16
+Joey Krehbiel	P	16
+Jake Lamb	3B	16
+Domingo Leyba	2B	16
+Tim Locastro	CF	16
+Yoan Lopez	P	16
+Ketel Marte	2B	16
+T.J. McFarland	P	16
+John Ryan Murphy	C	16
+Joel Payamps	P	16
+David Peralta	LF	16
+Robbie Ray	P	16
+Robby Scott	P	16
+Jimmie Sherfy	P	16
+Steven Souza Jr.	RF	16
+Blake Swihart	OF	16
+Bo Takahashi	P	16
+Emilio Vargas	P	16
+Ildemaro Vargas	SS	16
+Christian Walker	1B	16
+Luke Weaver	P	16
+Ronald Acuna Jr.	LF	17
+Ozzie Albies	2B	17
+Kolby Allard	P	17
+Jerry Blevins	P	17
+Johan Camargo	3B	17
+Shane Carle	P	17
+Charlie Culberson	LF	17
+Grant Dayton	P	17
+Josh Donaldson	3B	17
+Adam Duvall	LF	17
+Tyler Flowers	C	17
+Mike Foltynewicz	P	17
+Freddie Freeman	1B	17
+Max Fried	P	17
+Kevin Gausman	P	17
+Luiz Gohara	P	17
+Ender Inciarte	CF	17
+Alex Jackson	C	17
+Luke Jackson	P	17
+Matt Joyce	LF	17
+Nick Markakis	RF	17
+Brian McCann	C	17
+A.J. Minter	P	17
+Sean Newcomb	P	17
+Darren O'Day	P	17
+Wes Parsons	P	17
+Austin Riley	3B	17
+Chad Sobotka	P	17
+Mike Soroka	P	17
+Dansby Swanson	SS	17
+Anthony Swarzak	P	17
+Julio Teheran	P	17
+Josh Tomlin	P	17
+Touki Toussaint	P	17
+Jacob Webb	P	17
+Patrick Weigel	P	17
+Bryse Wilson	P	17
+Dan Winkler	P	17
+Kyle Wright	P	17
+Huascar Ynoa	P	17
+Albert Almora Jr.	CF	18
+Adbert Alzolay	P	18
+Javier Baez	2B	18
+David Bote	3B	18
+Brad Brach	P	18
+Kris Bryant	3B	18
+Victor Caratini	C	18
+Xavier Cedeno	P	18
+Tyler Chatwood	P	18
+Steve Cishek	P	18
+Tim Collins	P	18
+Willson Contreras	C	18
+Yu Darvish	P	18
+Taylor Davis	C	18
+Oscar De La Cruz	P	18
+Daniel Descalso	2B	18
+Carl Edwards Jr.	P	18
+Cole Hamels	P	18
+Ian Happ	CF	18
+Kyle Hendricks	P	18
+Jason Heyward	RF	18
+Brandon Kintzler	P	18
+Jon Lester	P	18
+Dillon Maples	P	18
+Alec Mills	P	18
+Mike Montgomery	P	18
+James Norwood	P	18
+Jose Quintana	P	18
+Anthony Rizzo	1B	18
+Randy Rosario	P	18
+Addison Russell	SS	18
+Kyle Ryan	P	18
+Kyle Schwarber	LF	18
+Chandler Shepherd	P	18
+Justin Steele	P	18
+Pedro Strop	P	18
+Duane Underwood Jr.	P	18
+Allen Webster	P	18
+Rowan Wick	P	18
+Mark Zagunis	RF	18
+Tucker Barnhart	C	19
+Alex Blandino	2B	19
+Matt Bowman	P	19
+Curt Casali	C	19
+Luis Castillo	P	19
+Anthony DeSclafani	P	19
+Derek Dietrich	2B	19
+Zach Duke	P	19
+Phillip Ervin	RF	19
+Kyle Farmer	C	19
+Amir Garrett	P	19
+Sonny Gray	P	19
+Jimmy Herget	P	19
+David Hernandez	P	19
+Jared Hughes	P	19
+Jose Iglesias	SS	19
+Raisel Iglesias	P	19
+Jose Lopez	P	19
+Michael Lorenzen	P	19
+Tyler Mahle	P	19
+Keury Mella	P	19
+Wandy Peralta	P	19
+Jose Peraza	SS	19
+Yasiel Puig	RF	19
+Cody Reed	P	19
+Jesus Reyes	P	19
+Tanner Roark	P	19
+Sal Romano	P	19
+Scott Schebler	RF	19
+Nick Senzel	LF	19
+Lucas Sims	P	19
+Jose Siri	CF	19
+Jackson Stephens	P	19
+Robert Stephenson	P	19
+Eugenio Suarez	3B	19
+Blake Trahan	SS	19
+Josh VanMeter	2B	19
+Joey Votto	1B	19
+Jesse Winker	RF	19
+Alex Wood	P	19
+Yency Almonte	P	20
+Tyler Anderson	P	20
+Nolan Arenado	3B	20
+Chad Bettis	P	20
+Charlie Blackmon	RF	20
+Ryan Castellani	P	20
+Noel Cuevas	RF	20
+David Dahl	LF	20
+Wade Davis	P	20
+Yonathan Daza	CF	20
+Ian Desmond	CF	20
+Mike Dunn	P	20
+Carlos Estevez	P	20
+Kyle Freeland	P	20
+Josh Fuentes	3B	20
+Jon Gray	P	20
+Garrett Hampson	2B	20
+Sam Hilliard	RF	20
+Jeff Hoffman	P	20
+Chris Iannetta	C	20
+DJ Johnson	P	20
+Justin Lawrence	P	20
+German Marquez	P	20
+Jake McGee	P	20
+Ryan McMahon	2B	20
+Daniel Murphy	1B	20
+Harrison Musgrave	P	20
+Scott Oberg	P	20
+Seunghwan Oh	P	20
+James Pazos	P	20
+Mark Reynolds	1B	20
+Brendan Rodgers	SS	20
+Chris Rusin	P	20
+Antonio Senzatela	P	20
+Bryan Shaw	P	20
+Trevor Story	SS	20
+Raimel Tapia	CF	20
+Jesus Tinoco	P	20
+Pat Valaika	3B	20
+Tony Wolters	C	20
+Scott Alexander	P	21
+Yadier Alvarez	P	21
+Pedro Baez	P	21
+Austin Barnes	C	21
+Matt Beaty	1B	21
+Cody Bellinger	1B	21
+Walker Buehler	P	21
+JT Chargois	P	21
+Tony Cingrani	P	21
+Caleb Ferguson	P	21
+Dylan Floro	P	21
+David Freese	3B	21
+Rocky Gale	C	21
+Yimi Garcia	P	21
+Kyle Garlick	RF	21
+Enrique Hernandez	CF	21
+Rich Hill	P	21
+Kenley Jansen	P	21
+Joe Kelly	P	21
+Clayton Kershaw	P	21
+Kenta Maeda	P	21
+Russell Martin	C	21
+Adam McCreery	P	21
+Max Muncy	1B	21
+Joc Pederson	LF	21
+A.J. Pollock	CF	21
+Edwin Rios	3B	21
+Keibert Ruiz	C	21
+Hyun-Jin Ryu	P	21
+Dennis Santana	P	21
+Josh Sborz	P	21
+Jaime Schultz	P	21
+Corey Seager	SS	21
+Brock Stewart	P	21
+Ross Stripling	P	21
+Chris Taylor	SS	21
+Justin Turner	3B	21
+Alex Verdugo	CF	21
+Sandy Alcantara	P	22
+Jorge Alfaro	C	22
+Brian Anderson	3B	22
+Nick Anderson	P	22
+Jon Berti	3B	22
+Austin Brice	P	22
+Jeff Brigham	P	22
+Lewis Brinson	CF	22
+Starlin Castro	2B	22
+Wei-Yin Chen	P	22
+Adam Conley	P	22
+Garrett Cooper	LF	22
+Austin Dean	LF	22
+Isan Diaz	2B	22
+Isaac Galloway	RF	22
+Jarlin Garcia	P	22
+Curtis Granderson	OF	22
+Tayron Guerrero	P	22
+Jorge Guzman	P	22
+Monte Harrison	CF	22
+Elieser Hernandez	P	22
+Rosell Herrera	RF	22
+Jordan Holloway	P	22
+Kyle Keller	P	22
+Tyler Kinley	P	22
+Pablo Lopez	P	22
+Peter O'Brien	OF	22
+Martin Prado	3B	22
+Jose Quijada	P	22
+Harold Ramirez	RF	22
+Trevor Richards	P	22
+JT Riddle	SS	22
+Miguel Rojas	SS	22
+Sergio Romo	P	22
+Magneuris Sierra	CF	22
+Caleb Smith	P	22
+Jose Urena	P	22
+Neil Walker	1B	22
+Chad Wallach	C	22
+Jordan Yamamoto	P	22
+Jesus Aguilar	1B	23
+Matt Albers	P	23
+Chase Anderson	P	23
+Orlando Arcia	SS	23
+Jacob Barnes	P	23
+Ryan Braun	LF	23
+Corbin Burnes	P	23
+Lorenzo Cain	CF	23
+Jhoulys Chacin	P	23
+Alex Claudio	P	23
+Zach Davies	P	23
+Marcos Diplan	P	23
+Mauricio Dubon	SS	23
+David Freitas	C	23
+Ben Gamel	LF	23
+Gio Gonzalez	P	23
+Yasmani Grandal	C	23
+Junior Guerra	P	23
+Josh Hader	P	23
+Donnie Hart	P	23
+Keston Hiura	2B	23
+Adrian Houser	P	23
+Jeremy Jeffress	P	23
+Mike Moustakas	3B	23
+Jimmy Nelson	P	23
+Jacob Nottingham	C	23
+Freddy Peralta	P	23
+Hernan Perez	2B	23
+Manny Pina	C	23
+Tyler Saladino	SS	23
+Travis Shaw	3B	23
+Burch Smith	P	23
+Troy Stokes Jr.	LF	23
+Trey Supak	P	23
+Tyrone Taylor	CF	23
+Eric Thames	1B	23
+Aaron Wilkerson	P	23
+Taylor Williams	P	23
+Brandon Woodruff	P	23
+Christian Yelich	LF	23
+Pete Alonso	1B	24
+Luis Avilan	P	24
+Tyler Bashlor	P	24
+Robinson Cano	2B	24
+Michael Conforto	LF	24
+J.D. Davis	3B	24
+Jacob deGrom	P	24
+Edwin Diaz	P	24
+Jeurys Familia	P	24
+Chris Flexen	P	24
+Wilmer Font	P	24
+Todd Frazier	3B	24
+Drew Gagnon	P	24
+Carlos Gomez	OF	24
+Robert Gsellman	P	24
+Luis Guillorme	SS	24
+Eric Hanhold	P	24
+Adeiny Hechavarria	SS	24
+Franklyn Kilome	P	24
+Juan Lagares	CF	24
+Walker Lockett	P	24
+Seth Lugo	P	24
+Steven Matz	P	24
+Jeff McNeil	2B	24
+Tomas Nido	C	24
+Brandon Nimmo	CF	24
+Ryan O'Rourke	P	24
+Corey Oswalt	P	24
+Tim Peterson	P	24
+Wilson Ramos	C	24
+Jacob Rhame	P	24
+Amed Rosario	SS	24
+Hector Santiago	P	24
+Paul Sewald	P	24
+Dominic Smith	1B	24
+Noah Syndergaard	P	24
+Jason Vargas	P	24
+Zack Wheeler	P	24
+Justin Wilson	P	24
+Daniel Zamora	P	24
+Jose Alvarez	P	25
+Drew Anderson	P	25
+Victor Arano	P	25
+Jake Arrieta	P	25
+Dylan Cozens	RF	25
+Austin Davis	P	25
+Enyel De Los Santos	P	25
+Seranthony Dominguez	P	25
+Zach Eflin	P	25
+Jerad Eickhoff	P	25
+Maikel Franco	3B	25
+Arquimedes Gamboa	SS	25
+Edgar Garcia	P	25
+Phil Gosselin	2B	25
+Bryce Harper	RF	25
+Cesar Hernandez	2B	25
+Odubel Herrera	CF	25
+Rhys Hoskins	1B	25
+Cole Irvin	P	25
+Scott Kingery	SS	25
+Andrew Knapp	C	25
+Andrew McCutchen	RF	25
+Adonis Medina	P	25
+Adam Morgan	P	25
+Hector Neris	P	25
+Pat Neshek	P	25
+Juan Nicasio	P	25
+Aaron Nola	P	25
+Nick Pivetta	P	25
+Roman Quinn	CF	25
+Edubray Ramos	P	25
+J.T. Realmuto	C	25
+Yacksel Rios	P	25
+David Robertson	P	25
+Sean Rodriguez	2B	25
+Jean Segura	SS	25
+Ranger Suarez	P	25
+Vince Velasquez	P	25
+Mitch Walding	3B	25
+Nick Williams	RF	25
+Chris Archer	P	26
+Josh Bell	1B	26
+Steven Brault	P	26
+JT Brubaker	P	26
+Melky Cabrera	OF	26
+Francisco Cervelli	C	26
+Lonnie Chisenhall	OF	26
+Kyle Crick	P	26
+Elias Diaz	C	26
+Corey Dickerson	LF	26
+Montana DuRapau	P	26
+Jake Elmore	2B	26
+Luis Escobar	P	26
+Michael Feliz	P	26
+Adam Frazier	2B	26
+Geoff Hartlieb	P	26
+Clay Holmes	P	26
+Jung Ho Kang	3B	26
+Keone Kela	P	26
+Mitch Keller	P	26
+Nick Kingham	P	26
+Kevin Kramer	2B	26
+Jesus Liranzo	P	26
+Francisco Liriano	P	26
+Jordan Lyles	P	26
+Starling Marte	CF	26
+Jason Martin	CF	26
+Colin Moran	3B	26
+Joe Musgrove	P	26
+Dovydas Neverauskas	P	26
+Kevin Newman	2B	26
+Jose Osuna	3B	26
+Gregory Polanco	RF	26
+Pablo Reyes	LF	26
+Bryan Reynolds	LF	26
+Richard Rodriguez	P	26
+Chris Stratton	P	26
+Cole Tucker	SS	26
+Felipe Vazquez	P	26
+Trevor Williams	P	26
+Austin Allen	C	27
+Pedro Avila	P	27
+Franchy Cordero	LF	27
+Alex Dickerson	LF	27
+Robbie Erlin	P	27
+Anderson Espinoza	P	27
+Ty France	3B	27
+Greg Garcia	SS	27
+Javy Guerra	SS	27
+Austin Hedges	C	27
+Eric Hosmer	1B	27
+Ian Kinsler	2B	27
+Eric Lauer	P	27
+Aaron Loup	P	27
+Joey Lucchesi	P	27
+Manny Machado	3B	27
+Nick Margevicius	P	27
+Manuel Margot	CF	27
+Phil Maton	P	27
+Francisco Mejia	C	27
+Wil Myers	LF	27
+Edward Olivares	CF	27
+Chris Paddack	P	27
+Luis Perdomo	P	27
+Jose Pirela	LF	27
+Cal Quantrill	P	27
+Hunter Renfroe	RF	27
+Franmil Reyes	RF	27
+Gerardo Reyes	P	27
+Craig Stammen	P	27
+Robert Stock	P	27
+Matt Strahm	P	27
+Fernando Tatis Jr.	SS	27
+Luis Torrens	C	27
+Luis Urias	2B	27
+Adam Warren	P	27
+Brad Wieck	P	27
+Trey Wingenter	P	27
+Matt Wisler	P	27
+Kirby Yates	P	27
+Melvin Adon	P	28
+Shaun Anderson	P	28
+Tyler Austin	1B	28
+Abiatal Avelino	SS	28
+Tyler Beede	P	28
+Brandon Belt	1B	28
+Travis Bergen	P	28
+Ty Blach	P	28
+Ray Black	P	28
+Madison Bumgarner	P	28
+Sam Coonrod	P	28
+Brandon Crawford	SS	28
+Steven Duggar	CF	28
+Sam Dyson	P	28
+Aramis Garcia	C	28
+Mike Gerber	CF	28
+Trevor Gott	P	28
+Derek Holland	P	28
+Williams Jerez	P	28
+Ryder Jones	3B	28
+Evan Longoria	3B	28
+Mark Melancon	P	28
+Reyes Moronta	P	28
+Joe Panik	2B	28
+Kevin Pillar	CF	28
+Drew Pomeranz	P	28
+Buster Posey	C	28
+Dereck Rodriguez	P	28
+Jeff Samardzija	P	28
+Pablo Sandoval	3B	28
+Chris Shaw	LF	28
+Austin Slater	LF	28
+Will Smith	P	28
+Donovan Solano	2B	28
+Andrew Suarez	P	28
+Nick Vincent	P	28
+Stephen Vogt	C	28
+Tony Watson	P	28
+Mac Williamson	RF	28
+Harrison Bader	CF	29
+John Brebbia	P	29
+Genesis Cabrera	P	29
+Matt Carpenter	3B	29
+Paul DeJong	SS	29
+Jack Flaherty	P	29
+Dexter Fowler	RF	29
+Giovanny Gallegos	P	29
+John Gant	P	29
+Adolis Garcia	RF	29
+Paul Goldschmidt	1B	29
+Austin Gomber	P	29
+Merandy Gonzalez	P	29
+Jedd Gyorko	3B	29
+Ryan Helsley	P	29
+Jordan Hicks	P	29
+Dakota Hudson	P	29
+Dominic Leone	P	29
+Carlos Martinez	P	29
+Jose Martinez	OF	29
+Mike Mayers	P	29
+Miles Mikolas	P	29
+Andrew Miller	P	29
+Yadier Molina	C	29
+Yairo Munoz	SS	29
+Tyler O'Neill	LF	29
+Marcell Ozuna	LF	29
+Daniel Ponce de Leon	P	29
+Alex Reyes	P	29
+Drew Robinson	3B	29
+Edmundo Sosa	SS	29
+Lane Thomas	CF	29
+Ramon Urias	2B	29
+Michael Wacha	P	29
+Adam Wainwright	P	29
+Tyler Webb	P	29
+Matt Wieters	C	29
+Justin Williams	LF	29
+Kolten Wong	2B	29
+Matt Adams	1B	30
+Kyle Barraclough	P	30
+James Bourque	P	30
+Patrick Corbin	P	30
+Wilmer Difo	2B	30
+Sean Doolittle	P	30
+Brian Dozier	2B	30
+Adam Eaton	RF	30
+Erick Fedde	P	30
+Yan Gomes	C	30
+Matt Grace	P	30
+Javy Guerra	P	30
+Jeremy Hellickson	P	30
+Howie Kendrick	2B	30
+Carter Kieboom	SS	30
+Spencer Kieboom	C	30
+Kyle McGowin	P	30
+Justin Miller	P	30
+Jake Noll	3B	30
+Gerardo Parra	LF	30
+Tanner Rainey	P	30
+Raudy Read	C	30
+Anthony Rendon	3B	30
+Victor Robles	CF	30
+Trevor Rosenthal	P	30
+Joe Ross	P	30
+Adrian Sanchez	SS	30
+Anibal Sanchez	P	30
+Max Scherzer	P	30
+Tony Sipp	P	30
+Juan Soto	LF	30
+Andrew Stevenson	LF	30
+Stephen Strasburg	P	30
+Wander Suero	P	30
+Kurt Suzuki	C	30
+Michael A. Taylor	CF	30
+Trea Turner	SS	30
+Austin Voth	P	30
+Austen Williams	P	30
+Ryan Zimmerman	1B	30

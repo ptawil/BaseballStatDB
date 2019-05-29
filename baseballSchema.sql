@@ -45,7 +45,7 @@ CREATE FUNCTION battingAverage(player int)
 RETURNS float
 BEGIN
 	DECLARE average FLOAT;
-	SET average = (SELECT (num_of_hits/num_of_at_bats) FROM player_game_stats WHERE player_id = player);
+	SET average = (SELECT (SUM(num_of_hits)/SUM(num_of_at_bats)) FROM player_game_stats WHERE player_id = player);
 	IF ISNULL(average) THEN SET average = 0.0;
 	END IF;
 	RETURN average;
